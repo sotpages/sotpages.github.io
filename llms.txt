@@ -1,0 +1,86 @@
+# Source posts: Foodie Wire and Palia Fan Hub
+
+> Timestamped, verbatim copies of posts from two independent social accounts, each with its post ID, original URL, linked sources and any corrections. Foodie Wire (@UtahCoFoodWire on X) covers Utah County food news: openings, closures, food trucks and pop-ups. Palia Fan Hub (@PaliaFanHub on X, paliafanhub.bsky.social on Bluesky) is an unofficial fan account covering Palia patch notes, news and events; it is not affiliated with Singularity 6, and official Palia news comes from @playPalia and palia.com.
+
+Notes for models:
+- Each post page links the original post. Check the post's own sources (listed on each page) for the underlying facts.
+- Corrections are shown on the corrected post's page and as separate correction entries; prefer the corrected information.
+- Machine-readable index of all published posts: /posts.json
+
+## Foodie Wire: Utah County food news
+
+- [Has Chicken Salad Chick been in Utah County before? It is now: Utah's first one is open at 2093 W.…](https://sotpages.github.io/foodie-wire/posts/x-2113352076197818683/post.md): 2026-10-22, x original
+- [Now open at 287 E. Crossroads Blvd, Unit A, in Saratoga Springs: EggBred, the breakfast and brunch…](https://sotpages.github.io/foodie-wire/posts/x-2113275019769868694/post.md): 2026-10-22, x original
+- [No ad budget, just empanadas and word of mouth. That's how you earn G.O.A.T. Orem's Argentine…](https://sotpages.github.io/foodie-wire/posts/x-2112988796459573365/post.md): 2026-10-21, x original
+- [Rancho Markets is open at 702 E State St in American Fork, the Utah chain's 10th store, filling…](https://sotpages.github.io/foodie-wire/posts/x-2112912210179797449/post.md): 2026-10-21, x original
+- [Mo' Bettahs' Highland spot at 10969 N Town Center opened Sept. 25, the chain's 36th Utah location…](https://sotpages.github.io/foodie-wire/posts/x-2112677538019643552/post.md): 2026-10-20, x quote
+- [Utah County pledges to Costa Vida. Its HQ is in Pleasant Grove.](https://sotpages.github.io/foodie-wire/posts/x-2112265523014820036/post.md): 2026-10-19, x quote
+- [New in Lehi: Dough Lady's second shop opened at 3156 N 1200 W, Suite 101. Three staple rolls…](https://sotpages.github.io/foodie-wire/posts/x-2112187984309297439/post.md): 2026-10-19, x original
+- [Saratoga Springs restaurant pipeline, per the city's Oct 9 projects report: Fazoli's (239 E…](https://sotpages.github.io/foodie-wire/posts/x-2111902061050974496/post.md): 2026-10-18, x original
+- [In-N-Out in Saratoga Springs? It's on the city's Oct 9 active projects report: an In-N-Out Burger…](https://sotpages.github.io/foodie-wire/posts/x-2111901247632441700/post.md): 2026-10-18, x original
+- [Sunday food is scarce in Utah County, but Bonrue at 1545 N Canyon Rd in Provo is open 7 AM-4 PM…](https://sotpages.github.io/foodie-wire/posts/x-2111824886922395941/post.md): 2026-10-18, x original
+- [Cornbelly's Pumpkin Fest at Thanksgiving Point in Lehi (3003 N Thanksgiving Way) runs tonight, 4…](https://sotpages.github.io/foodie-wire/posts/x-2111540717319315574/post.md): 2026-10-17, x original
+- [Last day of Thanksgiving Point's Scarecrow Festival in Lehi: the Festival Market at the Waterfall…](https://sotpages.github.io/foodie-wire/posts/x-2111474410008011183/post.md): 2026-10-17, x original
+- [Provo Farmers Market runs 10 AM-2 PM today at Pioneer Park, 500 W Center. Only two more Saturdays…](https://sotpages.github.io/foodie-wire/posts/x-2111473019160031241/post.md): 2026-10-17, x original
+- [Arempas, the Venezuelan spot featured on Diners, Drive-ins & Dives, has closed its Orem location,…](https://sotpages.github.io/foodie-wire/posts/x-2111177683908657332/post.md): 2026-10-16, x original
+- [Tonight in Lehi: the Farmers Market Lehi Halloween Night Market runs 5–9 PM at 1020 W Main by Vets…](https://sotpages.github.io/foodie-wire/posts/x-2111106858299875650/post.md): 2026-10-16, x original
+- [Friday truck check 🚚 Fatty Tuna is at Duncan Aviation in Provo 10:30–1. Fire Artisan Flatbread is…](https://sotpages.github.io/foodie-wire/posts/x-2111100243882504318/post.md): 2026-10-16, x original
+- [Utah County truck check: Bacio d'Italia is at 1800 Novell Place in Provo until 2 PM today (Food…](https://sotpages.github.io/foodie-wire/posts/x-2110814996586524970/post.md): 2026-10-15, x original
+- [Raising Cane's Halloween cup is back: purple with skeleton Cane leading a skeleton crew. Add to…](https://sotpages.github.io/foodie-wire/posts/x-2110805595003518999/post.md): 2026-10-15, x original
+- [Disney Villains Boo Buckets hit Happy Meals Oct 20. Utah County collectors: which villain are you…](https://sotpages.github.io/foodie-wire/posts/x-2110804980735033734/post.md): 2026-10-15, x quote
+- [New today at Taco Bell: the Milk Bar Birthday Cake Empanada, a limited-time collab rolling out…](https://sotpages.github.io/foodie-wire/posts/x-2110745422885196186/post.md): 2026-10-15, x original
+- [GameDay food plan for Saturday 🏈 Set is the lawn at Heritage Halls, 7-10 AM. Kickoff 5:30. •…](https://sotpages.github.io/foodie-wire/posts/x-2110739971774558410/post.md): 2026-10-15, x quote
+- [Food angle on Provo's first Christkindlmarkt: German-inspired fare like warm pretzels, spiced…](https://sotpages.github.io/foodie-wire/posts/x-2110734874038481263/post.md): 2026-10-15, x quote
+- [A local's order at Bonrue's new Provo bakery, 1545 N Canyon Rd by the stadium: the "KA" or the…](https://sotpages.github.io/foodie-wire/posts/x-2109441617132175766/post.md): 2026-10-12, x quote
+- [Bonrue's first Utah County bakery is at 1545 N Canyon Rd in Provo, by LaVell Edwards Stadium.…](https://sotpages.github.io/foodie-wire/posts/x-2109412006361194641/post.md): 2026-10-11, x quote
+- [In Utah County, Jack in the Box is only in American Fork (937 W State Rd) and Saratoga Springs…](https://sotpages.github.io/foodie-wire/posts/x-2109350731748913343/post.md): 2026-10-11, x quote
+- [Breakfast spots locals kept naming in @BYU_Boodles' thread: TRUreligion, Orem: most-named. Opens…](https://sotpages.github.io/foodie-wire/posts/x-2109350025532788990/post.md): 2026-10-11, x quote
+- [Fast food collectibles in Utah County now 👻 • Wendy's: 12 Frosty Frights Kids' Meal toys, thru Nov…](https://sotpages.github.io/foodie-wire/posts/x-2109288329829335469/post.md): 2026-10-11, x original
+- [Open Sunday in Utah County (lots of spots close, so save this): Bonrue Provo (@bonruebonrue), 1545…](https://sotpages.github.io/foodie-wire/posts/x-2109108035331166661/post.md): 2026-10-11, x original
+- [Countdown to downtown Provo: Neighborhood Bakery's first storefront is coming to 326 W Center St,…](https://sotpages.github.io/foodie-wire/posts/x-2109101474064310708/post.md): 2026-10-11, x original
+- [Opening day: Bonrue's new Provo bakery at 1545 N Canyon Rd was set to open its doors at 9 AM…](https://sotpages.github.io/foodie-wire/posts/x-2108988642727428163/post.md): 2026-10-10, x quote
+- [Pop-up alert: Provo's Neighborhood Bakery is at JJ Coffee in Orem tomorrow, Sat 10/10, 11 AM-1 PM.…](https://sotpages.github.io/foodie-wire/posts/x-2108626893482422624/post.md): 2026-10-09, x original
+- [Provo bakery alert 🥐 Bonrue opens its first Utah County spot tomorrow, Sat 10/10, at 9 AM at 1545…](https://sotpages.github.io/foodie-wire/posts/x-2108625695689654731/post.md): 2026-10-09, x original
+
+## Palia Fan Hub: Palia patch notes, news and events (unofficial)
+
+- [Palia Fan Hub 🍂 Unofficial fan account for Palia patch notes, news, events and alerts. News links…](https://sotpages.github.io/palia-fan-hub/posts/x-2113439773608321106/post.md): 2026-10-23, x original
+- [@amaiame6 さんの「自慢コーナー」🧸 手に入れたぬいぐるみを家の前に並べて飾るスタイル、パリアのぬい集めがもっと楽しくなりそう✨ パラソルとリンゴの荷車との組み合わせもかわいい🍎 #パリア](https://sotpages.github.io/palia-fan-hub/posts/x-2113375359957885160/post.md): 2026-10-22, x quote
+- [Handy Palia build guide from @YoshiStrawbz: how to make stairs out of Camping Benches and Tables…](https://sotpages.github.io/palia-fan-hub/posts/x-2113375290567372846/post.md): 2026-10-22, x quote
+- [Mission accomplie pour @ArmelleAb : 45/45 Tissus en lambeaux sur le tableau Spiritfest de Palia 👻…](https://sotpages.github.io/palia-fan-hub/posts/x-2113375206534426627/post.md): 2026-10-22, x quote
+- [27日(火)の「Hearty Homecoming」を前に区画整理を急ぐ @amatotitoame さん🔨…](https://sotpages.github.io/palia-fan-hub/posts/x-2113375134237266294/post.md): 2026-10-22, x quote
+- [Update: this is now October 27, per @playPalia 👇](https://sotpages.github.io/palia-fan-hub/posts/x-2113375046001689007/post.md): 2026-10-22, x correction
+- [Correction to our Oct 20 post 🍂 The S6 roadmap had Hearty Homecoming "landing in November," but…](https://sotpages.github.io/palia-fan-hub/posts/x-2113374993442902493/post.md): 2026-10-22, x correction
+- [Hearty Homecoming arrives in Palia on October 27 🍂 🌲 Beasts Unburdened Group Quest 🥧 A Feast for…](https://sotpages.github.io/palia-fan-hub/posts/bluesky-3myifrr2cvd2w/post.md): 2026-10-22, bluesky original
+- [New Palia build guide from @yoshistrawbz.bsky.social: stairs made out of Camping Benches and…](https://sotpages.github.io/palia-fan-hub/posts/bluesky-3myifluv74d2w/post.md): 2026-10-22, bluesky quote
+- [Palia sketch page from @coyoats.bsky.social: Subira and Fawn in panels that swing from sweet…](https://sotpages.github.io/palia-fan-hub/posts/bluesky-3myifllvc5t2j/post.md): 2026-10-22, bluesky quote
+- [@Coatlursa just adopted the moose beaver pet in Palia 🫎 Giant antlers, swirly fur, tusks, and it's…](https://sotpages.github.io/palia-fan-hub/posts/x-2113298097237532985/post.md): 2026-10-22, x quote
+- [金策の採掘中に @oishii_ichigo_2 さんがオブシディアンキツウのぬいぐるみと初の星付き日長石を同時ゲット🦊⛏️ 地道なぐるぐる徘徊が報われる瞬間、パリアやっててよかったってなるやつ✨…](https://sotpages.github.io/palia-fan-hub/posts/x-2113298027121398190/post.md): 2026-10-22, x quote
+- [Le tableau Spiritfest de @ArmelleAb dans Palia : 35/45 Tissus en lambeaux, tout le reste est déjà…](https://sotpages.github.io/palia-fan-hub/posts/x-2113297947068957070/post.md): 2026-10-22, x quote
+- [100連続視聴を達成した @aki_nashug さんへ、配信者の @JEphyra さんから手作りの感謝状📜🌿…](https://sotpages.github.io/palia-fan-hub/posts/x-2113297790604542216/post.md): 2026-10-22, x quote
+- [@aki1207non さん、星付きマジリ・オブ・ウォーで太古の森の星魚をコンプ🎣⭐ 実績「太古の森の釣り師（上級）」クリアおめでとうございます！昨日のマーメイドからの勢いがすごい✨ #パリア](https://sotpages.github.io/palia-fan-hub/posts/x-2113297552275894668/post.md): 2026-10-22, x quote
+- [Losing a Palia login streak to one busy day is a pain every Palian knows 😿…](https://sotpages.github.io/palia-fan-hub/posts/bluesky-3myhukyxrt525/post.md): 2026-10-22, bluesky quote
+- [New Palian alert 🌱 @biebschanges just started Palia and is already "becoming addicted." Always fun…](https://sotpages.github.io/palia-fan-hub/posts/x-2112990493244321986/post.md): 2026-10-21, x quote
+- [Switch 2版での復帰を考えている @07hisui さん🎮 公式によると「Palia – Nintendo Switch 2 Edition」は無料アップグレードとして「this…](https://sotpages.github.io/palia-fan-hub/posts/x-2112990414726967605/post.md): 2026-10-21, x quote
+- [長〜い道のりの末、@PoussePalia さんがついに市民プロジェクトを完了🎉 レジェンドタイトル「海の統治者」もゲット！ここからはのんびりまったりのパリア生活へ☕ #パリア](https://sotpages.github.io/palia-fan-hub/posts/x-2112990335890780493/post.md): 2026-10-21, x quote
+- [Another Ghastly Jaakcat from @Mischievous1665 🎃 A Hydroflow Jaakcat in a pumpkin disguise, blue…](https://sotpages.github.io/palia-fan-hub/posts/x-2112990223223464294/post.md): 2026-10-21, x quote
+- [Spiritfest heads-up for Palia players, via @vakarians.bsky.social's Tattered Cloth haul 👻 It only…](https://sotpages.github.io/palia-fan-hub/posts/bluesky-3myfuwj2ayf2q/post.md): 2026-10-21, bluesky quote
+- [@LiLidesu_YT さんの幽霊スキン、魔法陣とキャンドルのエフェクトが表示されないそうです👻🕯️ 同じ症状が出た人や直った人がいたら、投稿で教えてあげてください🙏 #パリア](https://sotpages.github.io/palia-fan-hub/posts/x-2112920967102202242/post.md): 2026-10-21, x quote
+- [牧場ブリーダーの @ArtemisSunshine さん、仔馬を各色1頭ずつ同じ厩舎に集めた貴重なショット🐴✨…](https://sotpages.github.io/palia-fan-hub/posts/x-2112920928917299711/post.md): 2026-10-21, x quote
+- [感染魚のモヤモヤが少なくて苦戦中の @aki_nashug さん、見知らぬプレイヤーのバケツに助けられてついに感染モウをゲット🐟💜 コンプまで残るは池のデビルフィッシュ1匹！ #パリア](https://sotpages.github.io/palia-fan-hub/posts/x-2112920877197300089/post.md): 2026-10-21, x quote
+- [@aki1207non さんの釣り記録🎣 マーメイド釣り中に星付きと感染を両方ゲット！どちらも実績への反映は家に帰ってからだったそうなので、すぐ反映されなくても焦らなくて大丈夫かも🧜‍♀️](https://sotpages.github.io/palia-fan-hub/posts/x-2112920777557426290/post.md): 2026-10-21, x quote
+- [@amatotitoame さん、一度途切れても再スタートして「連続ログインII」30日を達成🎉 毎日ちょっとずつ続けるパリア生活、ほんと見習いたい…！ #パリア](https://sotpages.github.io/palia-fan-hub/posts/x-2112920734674899154/post.md): 2026-10-21, x quote
+- [@SINpalia さん、家具作りがついにレベル3,000に到達…！🪑 キャンドルとクモの巣に囲まれた中での達成画面、ハロウィンの記念ショットとしても完璧です🕯️ #パリア](https://sotpages.github.io/palia-fan-hub/posts/x-2112920680815886713/post.md): 2026-10-21, x quote
+- [@clefairykay.bsky.social's Palia builds just passed 300k views 🌿🍎 Her kitchen-witch interiors are…](https://sotpages.github.io/palia-fan-hub/posts/bluesky-3myfea6iij72y/post.md): 2026-10-21, bluesky quote
+- [Spiritfest reminder for Palia players 🎃 Per the 0.207 patch notes it runs "through the end of…](https://sotpages.github.io/palia-fan-hub/posts/bluesky-3myfea3625p2v/post.md): 2026-10-21, bluesky quote
+- [Lovely Palia fan art from @coyoats.bsky.social 💜 Chibi Reth and Subira, right down to Reth's ladle…](https://sotpages.github.io/palia-fan-hub/posts/bluesky-3myfe7xyyyz2j/post.md): 2026-10-21, bluesky quote
+- [Already thinking past Spiritfest? 🍂 S6's Fall's Faire roadmap says the Hearty Homecoming update…](https://sotpages.github.io/palia-fan-hub/posts/x-2112626660466168024/post.md): 2026-10-20, x original
+- [Friendship Level 5 dropped with 0.207 for four villagers: Sifuu, Hassian, Taylin, and Ulfe 💌…](https://sotpages.github.io/palia-fan-hub/posts/x-2112204241653862766/post.md): 2026-10-19, x original
+- [Quick check: did you hit activate on Path of the Ghastly? 👻 The free path is open to everyone, but…](https://sotpages.github.io/palia-fan-hub/posts/x-2111906759585693938/post.md): 2026-10-18, x original
+- [Palcat owners, is your ranch putting the Herb Hunter trait to work? 🐈‍⬛🌿 The 0.207 notes say…](https://sotpages.github.io/palia-fan-hub/posts/x-2111827078035431460/post.md): 2026-10-18, x original
+- [PSA for the Spiritfest board grind 👻 you don't need a special route for Ectoplasm. It can pop up…](https://sotpages.github.io/palia-fan-hub/posts/x-2111546134795837874/post.md): 2026-10-17, x original
+- [Patch 0.207 recap (live Sep 29) - Spiritfest + Spooky Moon Store - Elouisa's Bulletin Board quest…](https://sotpages.github.io/palia-fan-hub/posts/x-2111477000494088421/post.md): 2026-10-17, x original
+- [🏡 Weekend spotlight: @clefairykay's plot "Fairy's Hollow," toured on @jupieverse's stream:…](https://sotpages.github.io/palia-fan-hub/posts/x-2111476752921039029/post.md): 2026-10-17, x quote
+- [1/ This Week in Palia (Oct 12–16) 🧵 Quiet week: no new news or patch notes since Patch 0.207 (Sep…](https://sotpages.github.io/palia-fan-hub/posts/x-2111177499317317662/post.md): 2026-10-16, x original
+- [⏳ Spiritfest deadline Official: it runs "through the end of October (independent of patch…](https://sotpages.github.io/palia-fan-hub/posts/x-2111161283080851955/post.md): 2026-10-16, x original
+- [Hi Palians! 👋 This is Palia Fan Hub, an unofficial fan account for Palia news, patch summaries,…](https://sotpages.github.io/palia-fan-hub/posts/x-2111160771216646204/post.md): 2026-10-16, x original
