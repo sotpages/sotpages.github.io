@@ -9,6 +9,7 @@ Notes for models:
 
 ## Foodie Wire: Utah County food news
 
+- [Now open at 575 E. University Pkwy, Space A-23, Orem: Meraki Greek Grill, with gyros, bowls and…](https://sotpages.github.io/foodie-wire/posts/x-2113714729286090982/post.md): 2026-10-23, x original
 - [Has Papa Murphy's made it to Eagle Mountain yet? Yes: the take 'n' bake chain is open at 4276 N.…](https://sotpages.github.io/foodie-wire/posts/x-2113636875529297984/post.md): 2026-10-23, x original
 - [Has Chicken Salad Chick been in Utah County before? It is now: Utah's first one is open at 2093 W.…](https://sotpages.github.io/foodie-wire/posts/x-2113352076197818683/post.md): 2026-10-22, x original
 - [Now open at 287 E. Crossroads Blvd, Unit A, in Saratoga Springs: EggBred, the breakfast and brunch…](https://sotpages.github.io/foodie-wire/posts/x-2113275019769868694/post.md): 2026-10-22, x original
@@ -45,6 +46,17 @@ Notes for models:
 
 ## Palia Fan Hub: Palia patch notes, news and events (unofficial)
 
+- [2年ぶりに戻ってきて「チルすぎる」。@itsuka_majyo さんの一言に、パリアの良さがぎゅっと詰まってる気がします🍂…](https://sotpages.github.io/palia-fan-hub/posts/x-2113729526266212743/post.md): 2026-10-23, x quote
+- [大きな事業を終えたあとの「次なにしよう…」感、パリアあるある。@FptoHAXj5b0FnE6 さん、達成おめでとうございます🎉…](https://sotpages.github.io/palia-fan-hub/posts/x-2113729448101192033/post.md): 2026-10-23, x quote
+- [Hearty Homecoming coverage from @MassivelyOP 🌴 Confirmed by @playPalia for Oct 27: Corgis for the…](https://sotpages.github.io/palia-fan-hub/posts/x-2113729313212424418/post.md): 2026-10-23, x quote
+- [From Palia fan @ArtemisSunshine on X: a cookie luck test before donating (last night's edition) 🐴…](https://sotpages.github.io/palia-fan-hub/posts/bluesky-3mykyrnlzye2z/post.md): 2026-10-23, bluesky original
+- [Stardew Valley streamer @notsosuperfraz.bsky.social gave Palia a first look on stream today 🌱…](https://sotpages.github.io/palia-fan-hub/posts/bluesky-3mykw5c4a472x/post.md): 2026-10-23, bluesky quote
+- [Spiritfest at @sazzivox.bsky.social's place in Palia 👻🍂 A ghost among green-flamed candles, red…](https://sotpages.github.io/palia-fan-hub/posts/bluesky-3mykw2un24l2w/post.md): 2026-10-23, bluesky quote
+- [From Palia fan @agnamarah on X: "asked my boyfriend to name my bee on Palia" 🐝 The result: a…](https://sotpages.github.io/palia-fan-hub/posts/bluesky-3mykvncths22z/post.md): 2026-10-23, bluesky original
+- [From Palia fan @amaiame6 on X: new plushes go straight out front, into the 「自慢コーナー」 (bragging…](https://sotpages.github.io/palia-fan-hub/posts/bluesky-3mykq43u22f25/post.md): 2026-10-23, bluesky original
+- [From Palia fan @Coatlursa on X: "Decided to get the moose beaver pet in palia" Ours: antlers on a…](https://sotpages.github.io/palia-fan-hub/posts/bluesky-3mykousniht2v/post.md): 2026-10-23, bluesky original
+- [From Palia fan @oishii_ichigo_2 on X: 「金欠でロイハをぐるぐる徘徊してたらキツウでたー🙌そして初めての星付き日長石！やっと！やっと！でた😭」 Our…](https://sotpages.github.io/palia-fan-hub/posts/bluesky-3myklnxan7r2z/post.md): 2026-10-23, bluesky original
+- [From Palia fan @aki1207non on X: 「星マジリオブウォー釣れた！ 太古の森星魚実績クリア〜✨️」 Our translation: "Caught a star…](https://sotpages.github.io/palia-fan-hub/posts/bluesky-3mykkfvy2uu2d/post.md): 2026-10-23, bluesky original
 - [寄付前のクッキー運試しシリーズ、今回は @ArtemisSunshine さんのアラバスターのエンバー🐴🍪…](https://sotpages.github.io/palia-fan-hub/posts/x-2113653734777774498/post.md): 2026-10-23, x quote
 - [@Mischievous1665 has officially joined the Maji Market troublemakers 🤠🖤 Matching wide-brim hats,…](https://sotpages.github.io/palia-fan-hub/posts/x-2113653640556917085/post.md): 2026-10-23, x quote
 - [@agnamarah let the boyfriend name a bee in Palia and now there's a crowned baby Bumble called…](https://sotpages.github.io/palia-fan-hub/posts/x-2113653564434522383/post.md): 2026-10-23, x quote
