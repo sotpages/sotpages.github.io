@@ -9,6 +9,7 @@ Notes for models:
 
 ## Foodie Wire: Utah County food news
 
+- [Konala opened its first Utah location in June at 210 W. Cougar Blvd. in Provo, converting a former…](https://sotpages.github.io/foodie-wire/posts/x-2114075861137924127/post.md): 2026-10-24, x original
 - [Provo Burger opened March 25 at 3225 N. Canyon Rd. in Provo's Edgemont neighborhood, bringing…](https://sotpages.github.io/foodie-wire/posts/x-2113999163222536425/post.md): 2026-10-24, x original
 - [Now open at 575 E. University Pkwy, Space A-23, Orem: Meraki Greek Grill, with gyros, bowls and…](https://sotpages.github.io/foodie-wire/posts/x-2113714729286090982/post.md): 2026-10-23, x original
 - [Has Papa Murphy's made it to Eagle Mountain yet? Yes: the take 'n' bake chain is open at 4276 N.…](https://sotpages.github.io/foodie-wire/posts/x-2113636875529297984/post.md): 2026-10-23, x original
@@ -47,6 +48,16 @@ Notes for models:
 
 ## Palia Fan Hub: Palia patch notes, news and events (unofficial)
 
+- [From Palia fan @aki_nashug on X: 「アルフちゃん🍀 日長石くれたー❤ 虫取りもヤバそうだしブラブラお散歩だけ」 Our translation: "Ulfe…](https://sotpages.github.io/palia-fan-hub/posts/bluesky-3mynixy4pm62f/post.md): 2026-10-24, bluesky original
+- [今夜パリアで料理コラボ配信を予定されている @minmorii_ch さん🍳✨ みんなで材料を持ち寄ってキッチンを囲むクッキングタイム、パリアならではの賑やかな楽しさがあって最高ですよね！…](https://sotpages.github.io/palia-fan-hub/posts/x-2114087403568967877/post.md): 2026-10-24, x quote
+- [久しぶりのパリアで牧場ライフを満喫中の @itsuka_majyo さん🐄✨…](https://sotpages.github.io/palia-fan-hub/posts/x-2114087339085709402/post.md): 2026-10-24, x quote
+- [PSA for anyone grinding Infected Essence for the Spiritfest board like @SilverSnowQT: per the…](https://sotpages.github.io/palia-fan-hub/posts/x-2114087035426443539/post.md): 2026-10-24, x quote
+- [@echonhico styling the Badruu straw hat with round glasses, overalls, and a cozy porch rocking…](https://sotpages.github.io/palia-fan-hub/posts/x-2114086941687947677/post.md): 2026-10-24, x quote
+- [ウルフの親密度レベル5を達成した @aki_nashug さんのスクショ✨…](https://sotpages.github.io/palia-fan-hub/posts/x-2114086867805348118/post.md): 2026-10-24, x quote
+- [From Palia fan @shino_s_s_m on X: 「🤣 #Palia」 Ours: peak Spiritfest night energy — purple and…](https://sotpages.github.io/palia-fan-hub/posts/bluesky-3mynieefwbt2y/post.md): 2026-10-24, bluesky original
+- [From Palia fan @gogomiragino on X: 「パリアにて無一文になる恐怖😱 自宅からロイハに飛んだあとに発生。インベントリも拡張前の初期状態に💦」 Our…](https://sotpages.github.io/palia-fan-hub/posts/bluesky-3mynhqdxdzp22/post.md): 2026-10-24, bluesky original
+- [Another Palian claimed by Reth's soup agenda 🍲✨ @briaryre.bsky.social summing up the exact moment…](https://sotpages.github.io/palia-fan-hub/posts/bluesky-3mynhe4na442p/post.md): 2026-10-24, bluesky quote
+- [Spiritfest Bulletin Board reminder as @tiredphoenix.swifties.social rallies a hunting party for…](https://sotpages.github.io/palia-fan-hub/posts/bluesky-3myngrbarwm2z/post.md): 2026-10-24, bluesky quote
 - [A cozy stream tour of @clefairykay's Fairy's Hollow plot by @CozyAdventurers 🌿✨ Floor-to-ceiling…](https://sotpages.github.io/palia-fan-hub/posts/x-2114014704612090093/post.md): 2026-10-24, x quote
 - [コミュニティ「チャパクロ」1周年の節目に、6回目の採掘ドリームで念願のキツウぬいをお迎えした @maluhia015 さん🦊🎉…](https://sotpages.github.io/palia-fan-hub/posts/x-2114014560831349235/post.md): 2026-10-24, x quote
 - [Après la chasse aux PalSnacks, @ArmelleAb a adopté un premier bébé Chacolyte via la Boutique de la…](https://sotpages.github.io/palia-fan-hub/posts/x-2114014459979284656/post.md): 2026-10-24, x quote
