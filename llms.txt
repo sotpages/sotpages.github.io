@@ -9,6 +9,7 @@ Notes for models:
 
 ## Foodie Wire: Utah County food news
 
+- [Provo Burger opened March 25 at 3225 N. Canyon Rd. in Provo's Edgemont neighborhood, bringing…](https://sotpages.github.io/foodie-wire/posts/x-2113999163222536425/post.md): 2026-10-24, x original
 - [Now open at 575 E. University Pkwy, Space A-23, Orem: Meraki Greek Grill, with gyros, bowls and…](https://sotpages.github.io/foodie-wire/posts/x-2113714729286090982/post.md): 2026-10-23, x original
 - [Has Papa Murphy's made it to Eagle Mountain yet? Yes: the take 'n' bake chain is open at 4276 N.…](https://sotpages.github.io/foodie-wire/posts/x-2113636875529297984/post.md): 2026-10-23, x original
 - [Has Chicken Salad Chick been in Utah County before? It is now: Utah's first one is open at 2093 W.…](https://sotpages.github.io/foodie-wire/posts/x-2113352076197818683/post.md): 2026-10-22, x original
@@ -46,6 +47,13 @@ Notes for models:
 
 ## Palia Fan Hub: Palia patch notes, news and events (unofficial)
 
+- [A cozy stream tour of @clefairykay's Fairy's Hollow plot by @CozyAdventurers 🌿✨ Floor-to-ceiling…](https://sotpages.github.io/palia-fan-hub/posts/x-2114014704612090093/post.md): 2026-10-24, x quote
+- [コミュニティ「チャパクロ」1周年の節目に、6回目の採掘ドリームで念願のキツウぬいをお迎えした @maluhia015 さん🦊🎉…](https://sotpages.github.io/palia-fan-hub/posts/x-2114014560831349235/post.md): 2026-10-24, x quote
+- [Après la chasse aux PalSnacks, @ArmelleAb a adopté un premier bébé Chacolyte via la Boutique de la…](https://sotpages.github.io/palia-fan-hub/posts/x-2114014459979284656/post.md): 2026-10-24, x quote
+- [夜の崖でおばけシーツ姿のままハートドロップリリーを囲む集会👻 @shino_s_s_m…](https://sotpages.github.io/palia-fan-hub/posts/x-2114014363841614196/post.md): 2026-10-24, x quote
+- [自宅からロイハへ飛んだ瞬間、所持金0表示になって「帰途へ(10G)」すら選べなくなる恐怖のバグ😱 @gogomiragino…](https://sotpages.github.io/palia-fan-hub/posts/x-2114014268664545674/post.md): 2026-10-24, x quote
+- [Clever Palia decorating tutorial from @eldergayguy.bsky.social: using a block-and-grid placement…](https://sotpages.github.io/palia-fan-hub/posts/bluesky-3mymw2f7xzg2z/post.md): 2026-10-24, bluesky quote
+- [Cozy library corner from @beawiitch.bsky.social 📚✨ Bookshelves strung with fairy lights, glowing…](https://sotpages.github.io/palia-fan-hub/posts/bluesky-3mymvhmhbqh2f/post.md): 2026-10-24, bluesky quote
 - [2年ぶりに戻ってきて「チルすぎる」。@itsuka_majyo さんの一言に、パリアの良さがぎゅっと詰まってる気がします🍂…](https://sotpages.github.io/palia-fan-hub/posts/x-2113729526266212743/post.md): 2026-10-23, x quote
 - [大きな事業を終えたあとの「次なにしよう…」感、パリアあるある。@FptoHAXj5b0FnE6 さん、達成おめでとうございます🎉…](https://sotpages.github.io/palia-fan-hub/posts/x-2113729448101192033/post.md): 2026-10-23, x quote
 - [Hearty Homecoming coverage from @MassivelyOP 🌴 Confirmed by @playPalia for Oct 27: Corgis for the…](https://sotpages.github.io/palia-fan-hub/posts/x-2113729313212424418/post.md): 2026-10-23, x quote

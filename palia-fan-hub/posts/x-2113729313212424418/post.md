@@ -8,6 +8,7 @@ created_at: 2026-10-23T20:28:34Z
 post_type: quote
 api_verified: true
 source_urls:
+  - https://x.com/playPalia/status/2113314447133385056
   - https://x.com/i/status/2113693375152964041
 ---
 
