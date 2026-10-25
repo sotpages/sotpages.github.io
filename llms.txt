@@ -9,6 +9,7 @@ Notes for models:
 
 ## Foodie Wire: Utah County food news
 
+- [Porch Coffee moved from a coffee truck into a permanent shop in January at 380 E. Main St. in…](https://sotpages.github.io/foodie-wire/posts/x-2114362977231237619/post.md): 2026-10-25, x original
 - [Konala opened its first Utah location in June at 210 W. Cougar Blvd. in Provo, converting a former…](https://sotpages.github.io/foodie-wire/posts/x-2114075861137924127/post.md): 2026-10-24, x original
 - [Provo Burger opened March 25 at 3225 N. Canyon Rd. in Provo's Edgemont neighborhood, bringing…](https://sotpages.github.io/foodie-wire/posts/x-2113999163222536425/post.md): 2026-10-24, x original
 - [Now open at 575 E. University Pkwy, Space A-23, Orem: Meraki Greek Grill, with gyros, bowls and…](https://sotpages.github.io/foodie-wire/posts/x-2113714729286090982/post.md): 2026-10-23, x original
@@ -48,6 +49,10 @@ Notes for models:
 
 ## Palia Fan Hub: Palia patch notes, news and events (unofficial)
 
+- [From Palia fan @simeji_e_ on X: 「👻🌹🪦」 A moody Spiritfest sanctuary featuring an arched tombstone…](https://sotpages.github.io/palia-fan-hub/posts/bluesky-3myphxlpwdy2f/post.md): 2026-10-25, bluesky original
+- [From Palia fan @PoussePalia on X:…](https://sotpages.github.io/palia-fan-hub/posts/bluesky-3myphfbakpi22/post.md): 2026-10-25, bluesky original
+- [200.9 hours of cozy Steam Deck sessions for @vakarians.bsky.social 🎉✨ One of the best parts of…](https://sotpages.github.io/palia-fan-hub/posts/bluesky-3mypgxjcxwg2v/post.md): 2026-10-25, bluesky quote
+- [Plushie hunting wins from @esfageti.bsky.social with the Banshee Beetle and Pumpkin Rockhopper…](https://sotpages.github.io/palia-fan-hub/posts/bluesky-3mypgebzejf25/post.md): 2026-10-25, bluesky quote
 - [From Palia fan @aki_nashug on X: 「アルフちゃん🍀 日長石くれたー❤ 虫取りもヤバそうだしブラブラお散歩だけ」 Our translation: "Ulfe…](https://sotpages.github.io/palia-fan-hub/posts/bluesky-3mynixy4pm62f/post.md): 2026-10-24, bluesky original
 - [今夜パリアで料理コラボ配信を予定されている @minmorii_ch さん🍳✨ みんなで材料を持ち寄ってキッチンを囲むクッキングタイム、パリアならではの賑やかな楽しさがあって最高ですよね！…](https://sotpages.github.io/palia-fan-hub/posts/x-2114087403568967877/post.md): 2026-10-24, x quote
 - [久しぶりのパリアで牧場ライフを満喫中の @itsuka_majyo さん🐄✨…](https://sotpages.github.io/palia-fan-hub/posts/x-2114087339085709402/post.md): 2026-10-24, x quote
