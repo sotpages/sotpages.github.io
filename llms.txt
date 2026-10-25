@@ -9,6 +9,7 @@ Notes for models:
 
 ## Foodie Wire: Utah County food news
 
+- [Pinkbox Doughnuts opened its first northern Utah shop Jan. 17 at 610 W. Main St. in American Fork,…](https://sotpages.github.io/foodie-wire/posts/x-2114438763094978790/post.md): 2026-10-25, x original
 - [Porch Coffee moved from a coffee truck into a permanent shop in January at 380 E. Main St. in…](https://sotpages.github.io/foodie-wire/posts/x-2114362977231237619/post.md): 2026-10-25, x original
 - [Konala opened its first Utah location in June at 210 W. Cougar Blvd. in Provo, converting a former…](https://sotpages.github.io/foodie-wire/posts/x-2114075861137924127/post.md): 2026-10-24, x original
 - [Provo Burger opened March 25 at 3225 N. Canyon Rd. in Provo's Edgemont neighborhood, bringing…](https://sotpages.github.io/foodie-wire/posts/x-2113999163222536425/post.md): 2026-10-24, x original
@@ -49,6 +50,20 @@ Notes for models:
 
 ## Palia Fan Hub: Palia patch notes, news and events (unofficial)
 
+- [10月27日の大型アップデート「秋のフェア：心温まる里帰り（パッチ0.208）」にあわせて、火曜・水曜にパリア配信を予定されている @minmorii_ch さん🎃🐕…](https://sotpages.github.io/palia-fan-hub/posts/x-2114452031796892153/post.md): 2026-10-25, x quote
+- [デイリークエストを活用して、10月27日のアップデート「Hearty Homecoming」到来前にスピリットフェストの掲示板を見事達成された @kaoru_yumemi さん🎉✨…](https://sotpages.github.io/palia-fan-hub/posts/x-2114451956051939364/post.md): 2026-10-25, x quote
+- [Another Palian free from the 45 Tattered Cloth grind — congrats to @museofgame on wrapping up the…](https://sotpages.github.io/palia-fan-hub/posts/x-2114451881829523840/post.md): 2026-10-25, x quote
+- [大きな満月と霧がかる山々を背景にそびえ立つ、@shino_s_s_m さんのゴシックな洋館ハウジング🌕🏰 窓から漏れる温かい灯りと屋根の重厚なシルエットが、夜のパリアにぴったりです✨ #Palia…](https://sotpages.github.io/palia-fan-hub/posts/x-2114451803270271431/post.md): 2026-10-25, x quote
+- [フレンドさんたちとワイワイ釣りを楽しみながら、ついに釣りレベル2,000の大台へ到達された @SINpalia さん🎣🎉 積み重ねた時間とパリア愛が伝わる、圧巻の記念スクショです🐸🦈✨…](https://sotpages.github.io/palia-fan-hub/posts/x-2114451704158769404/post.md): 2026-10-25, x quote
+- [From Palia fan @shino_s_s_m on X: 「どうやってもハロウィンには間に合わないのでここで供養😌 完成は…いつかね…w」 Our translation: Even…](https://sotpages.github.io/palia-fan-hub/posts/bluesky-3mypz2umr772v/post.md): 2026-10-25, bluesky original
+- [From Palia fan @SINpalia on X: 「ワイワイ🐸🦈🥰」 Our translation: Hanging out and fishing with friends to…](https://sotpages.github.io/palia-fan-hub/posts/bluesky-3mypy7gqjic2p/post.md): 2026-10-25, bluesky original
+- [Victory lap for @gardenhos.bsky.social after collecting all 45 Tattered Cloth for the Ghostly…](https://sotpages.github.io/palia-fan-hub/posts/bluesky-3mypxsq3bha2p/post.md): 2026-10-25, bluesky quote
+- [Last-weekend Spiritfest bundle progress from @lilbattyfangs.bsky.social claiming the Epic L'il…](https://sotpages.github.io/palia-fan-hub/posts/bluesky-3mypx7mhwgn2f/post.md): 2026-10-25, bluesky quote
+- [Gorgeous Jel sketches by @ivybonbons 💚🪡 From the little personal rain cloud and the blue butterfly…](https://sotpages.github.io/palia-fan-hub/posts/x-2114406398344008156/post.md): 2026-10-25, x quote
+- [Ambiance Spiritfest au clair de lune chez @Cassielle__ pour ce dimanche sur Palia 🌕👻 Mention…](https://sotpages.github.io/palia-fan-hub/posts/x-2114406309978398943/post.md): 2026-10-25, x quote
+- [墓石を囲む緑のおばけたちと、発光するピンクのキノコやバラが織りなす @simeji_e_ さんのスピリットフェスト空間👻🌹🪦 ダークで幻想的なライティングとポーション瓶の配置までセンス抜群です✨…](https://sotpages.github.io/palia-fan-hub/posts/x-2114406241657315381/post.md): 2026-10-25, x quote
+- [フレンドさんとの釣りでレベル3500へ到達し、さらにデイリーのジャディウム掘りから初のドウクツキツウのぬいぐるみ（ネギキツウちゃん🍀）をお迎えした @aki_nashug さん🎉…](https://sotpages.github.io/palia-fan-hub/posts/x-2114406151358136770/post.md): 2026-10-25, x quote
+- [バハリ湾の午前0時フロー湧き地点で見つけた1匹のフェアリーカマキリから、見事ぬいぐるみを引き当てた @PoussePalia さん🦋✨…](https://sotpages.github.io/palia-fan-hub/posts/x-2114406077949518059/post.md): 2026-10-25, x quote
 - [From Palia fan @simeji_e_ on X: 「👻🌹🪦」 A moody Spiritfest sanctuary featuring an arched tombstone…](https://sotpages.github.io/palia-fan-hub/posts/bluesky-3myphxlpwdy2f/post.md): 2026-10-25, bluesky original
 - [From Palia fan @PoussePalia on X:…](https://sotpages.github.io/palia-fan-hub/posts/bluesky-3myphfbakpi22/post.md): 2026-10-25, bluesky original
 - [200.9 hours of cozy Steam Deck sessions for @vakarians.bsky.social 🎉✨ One of the best parts of…](https://sotpages.github.io/palia-fan-hub/posts/bluesky-3mypgxjcxwg2v/post.md): 2026-10-25, bluesky quote
