@@ -9,6 +9,7 @@ Notes for models:
 
 ## Foodie Wire: Utah County food news
 
+- [Have you stopped by the new Jack in the Box at 937 W. State Rd. in American Fork yet? It joins…](https://sotpages.github.io/foodie-wire/posts/x-2114801838356926500/post.md): 2026-10-26, x original
 - [Now open at 3567 E. Pony Express Pkwy in Eagle Mountain: Freddy's Frozen Custard & Steakburgers, a…](https://sotpages.github.io/foodie-wire/posts/x-2114727391377387610/post.md): 2026-10-26, x original
 - [Pinkbox Doughnuts opened its first northern Utah shop Jan. 17 at 610 W. Main St. in American Fork,…](https://sotpages.github.io/foodie-wire/posts/x-2114438763094978790/post.md): 2026-10-25, x original
 - [Porch Coffee moved from a coffee truck into a permanent shop in January at 380 E. Main St. in…](https://sotpages.github.io/foodie-wire/posts/x-2114362977231237619/post.md): 2026-10-25, x original
@@ -51,6 +52,16 @@ Notes for models:
 
 ## Palia Fan Hub: Palia patch notes, news and events (unofficial)
 
+- [From Palia fan @03europan on X: 「ウィークリーありがとうございました🤗🩷 今週もよろしくです～✌️😆✨」 Our translation: Wrapping up…](https://sotpages.github.io/palia-fan-hub/posts/bluesky-3mysiww44ju2b/post.md): 2026-10-26, bluesky original
+- [Good luck to @WandererThunder finishing up the Spiritfest Bulletin Board! 🎃👻 Reminder from the…](https://sotpages.github.io/palia-fan-hub/posts/x-2114807865034830329/post.md): 2026-10-26, x quote
+- [チャパクロ釣り大会1周年の後ろでこっそり釣り糸を垂らし、念願の巨大サメをついに釣り上げた @aki_nashug さん🦈🎣 芝生に4匹並んだサメぬい達が壮観です✨ #Palia #パリア](https://sotpages.github.io/palia-fan-hub/posts/x-2114807581659246648/post.md): 2026-10-26, x quote
+- [お祝いケーキとパルキャット＆オルムーのぬいぐるみを並べ、花瓶のコスモスまで心を込めて飾り付けられた @amaiame6 さんの温かいバースデーお祝いSS🎂🌸 #Palia #パリア](https://sotpages.github.io/palia-fan-hub/posts/x-2114807399639028175/post.md): 2026-10-26, x quote
+- [La panoplie Spiritfest au grand complet chez @ArmelleAb : costume de fantôme sous la nuit de Palia…](https://sotpages.github.io/palia-fan-hub/posts/x-2114807303425892395/post.md): 2026-10-26, x quote
+- [足元に半円で並ぶ6匹のタウのぬいぐるみ達に見つめられる @03europan さんの可愛い1枚🐶🩷 新しい週のパリア生活も楽しみですね✨ #Palia #パリア](https://sotpages.github.io/palia-fan-hub/posts/x-2114807131845337538/post.md): 2026-10-26, x quote
+- [When your Palia decorating and lighting are so dialed in that people think your screenshots are AI…](https://sotpages.github.io/palia-fan-hub/posts/bluesky-3mysidm7pot2b/post.md): 2026-10-26, bluesky quote
+- [Spiritfest milestone for @vakarians.bsky.social unlocking "The Witch" player title in Palia! 🧙‍♀️✨…](https://sotpages.github.io/palia-fan-hub/posts/bluesky-3myshqswe2u22/post.md): 2026-10-26, bluesky quote
+- [⚙️ Patch 0.208 Maintenance Alert (Fall's Faire: Hearty Homecoming)! Per @playPalia, servers go…](https://sotpages.github.io/palia-fan-hub/posts/x-2114782688037278187/post.md): 2026-10-26, x quote
+- [⚙️ Palia Patch 0.208 Maintenance Alert! Per @playPalia, servers go down tomorrow (Tue Oct 27) from…](https://sotpages.github.io/palia-fan-hub/posts/bluesky-3mysd3hbaqb24/post.md): 2026-10-26, bluesky original
 - [From Palia fan @love11_15_1013 on X: 「親愛なる方に遊んでいただきぬいぐるみもゲット💞 かぼちゃカエルぬいはスクショしそこねた😣」 Our…](https://sotpages.github.io/palia-fan-hub/posts/bluesky-3myrz7qfipu2p/post.md): 2026-10-26, bluesky original
 - [From Palia fan @magcafe0 on X: 「フレさんと３人で掘ってたら 初めて雨の日基金出た✨✨ 今まで まったく出る気配なかったからびっくり😳」 Our…](https://sotpages.github.io/palia-fan-hub/posts/bluesky-3myryrz2aaa2p/post.md): 2026-10-26, bluesky original
 - [Full gothic royalty energy from @egogalaxias.bsky.social — pairing the hooded crown look and…](https://sotpages.github.io/palia-fan-hub/posts/bluesky-3myryez57eg24/post.md): 2026-10-26, bluesky quote
