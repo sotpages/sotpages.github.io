@@ -8,6 +8,8 @@ created_at: 2026-10-25T20:20:23Z
 post_type: quote
 api_verified: true
 source_urls:
+  - https://x.com/minmorii_ch/status/2114424061564690666
+  - https://x.com/playPalia/status/2113314447133385056
   - https://x.com/i/status/2114424061564690666
 ---
 

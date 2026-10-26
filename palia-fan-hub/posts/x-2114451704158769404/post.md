@@ -8,6 +8,7 @@ created_at: 2026-10-25T20:19:05Z
 post_type: quote
 api_verified: true
 source_urls:
+  - https://x.com/SINpalia/status/2114364633884864764
   - https://x.com/i/status/2114364633884864764
 ---
 

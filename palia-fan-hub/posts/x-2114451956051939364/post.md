@@ -8,6 +8,9 @@ created_at: 2026-10-25T20:20:05Z
 post_type: quote
 api_verified: true
 source_urls:
+  - https://x.com/kaoru_yumemi/status/2114387678448046211
+  - https://palia.com/news/patch-207
+  - https://x.com/playPalia/status/2113314447133385056
   - https://x.com/i/status/2114387678448046211
 ---
 

@@ -9,6 +9,7 @@ post_type: quote
 api_verified: true
 source_urls:
   - https://bsky.app/profile/gardenhos.bsky.social/post/3myplthc6us2s
+corrected_by: ["3myrx7hl2z72w"]
 ---
 
 Victory lap for @gardenhos.bsky.social after collecting all 45 Tattered Cloth for the Ghostly Evidence bundle on the Spiritfest Bulletin Board 🙌👻 That Elderwood Muujin drop is easily one of the toughest hurdles on the board before it rotates out with Patch 0.208 on Oct 27. #Palia

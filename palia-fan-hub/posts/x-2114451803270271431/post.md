@@ -8,6 +8,7 @@ created_at: 2026-10-25T20:19:29Z
 post_type: quote
 api_verified: true
 source_urls:
+  - https://x.com/shino_s_s_m/status/2114373527948415047
   - https://x.com/i/status/2114373527948415047
 ---
 
