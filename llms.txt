@@ -9,6 +9,7 @@ Notes for models:
 
 ## Foodie Wire: Utah County food news
 
+- [Parlor Doughnuts has opened its second Utah County shop at 2319 N. 400 W. in Provo (open Mon-Sat…](https://sotpages.github.io/foodie-wire/posts/x-2115088733091565609/post.md): 2026-10-27, x original
 - [Have you stopped by the new Jack in the Box at 937 W. State Rd. in American Fork yet? It joins…](https://sotpages.github.io/foodie-wire/posts/x-2114801838356926500/post.md): 2026-10-26, x original
 - [Now open at 3567 E. Pony Express Pkwy in Eagle Mountain: Freddy's Frozen Custard & Steakburgers, a…](https://sotpages.github.io/foodie-wire/posts/x-2114727391377387610/post.md): 2026-10-26, x original
 - [Pinkbox Doughnuts opened its first northern Utah shop Jan. 17 at 610 W. Main St. in American Fork,…](https://sotpages.github.io/foodie-wire/posts/x-2114438763094978790/post.md): 2026-10-25, x original
@@ -52,6 +53,17 @@ Notes for models:
 
 ## Palia Fan Hub: Palia patch notes, news and events (unofficial)
 
+- [From Palia fan @oishii_ichigo_2 on X: lining up a full haul of Frogbert, Chapaa, Honeybee, Ancient…](https://sotpages.github.io/palia-fan-hub/posts/bluesky-3myujhbjt2t2p/post.md): 2026-10-27, bluesky original
+- [From Palia fan @miusan_ch on X: completing the final Spiritfest Bulletin Board bundles and…](https://sotpages.github.io/palia-fan-hub/posts/bluesky-3myuiylc3gi2n/post.md): 2026-10-27, bluesky original
+- [From Palia fan @PoussePalia on X: scoring a Banshee Beetle Plush alongside 22 Amber Echoes while…](https://sotpages.github.io/palia-fan-hub/posts/bluesky-3myuixwwena2f/post.md): 2026-10-27, bluesky original
+- [2時間のウィークリーパーティーで獲得したぬいぐるみ達を、夕暮れの区画の木箱にずらりと並べてお披露目されている @oishii_ichigo_2 さん🐸🐝✨…](https://sotpages.github.io/palia-fan-hub/posts/x-2115095431193751629/post.md): 2026-10-27, x quote
+- [パッチ0.208メンテナンス直前の駆け込みで、スピリットフェストの掲示板バンドルと報酬トラック最終チェストを見事達成された @miusan_ch さん🎃🎉…](https://sotpages.github.io/palia-fan-hub/posts/x-2115095364433011152/post.md): 2026-10-27, x quote
+- [ロイヤルハイランドでの素材集め中に、バンシークワガタのぬいぐるみとアンバーエコー22個を引き当てた @PoussePalia さん🪲✨…](https://sotpages.github.io/palia-fan-hub/posts/x-2115095278995017904/post.md): 2026-10-27, x quote
+- [Clutch pre-maintenance hunting RNG from @waveskollide—scoring a first-ever Jaakcat Plush alongside…](https://sotpages.github.io/palia-fan-hub/posts/x-2115095209336070398/post.md): 2026-10-27, x quote
+- [Patch 0.208 maintenance runs 7–10am PT! Official @playPalia notes include the Beasts Unburdened…](https://sotpages.github.io/palia-fan-hub/posts/x-2115095130399281661/post.md): 2026-10-27, x quote
+- [Stunning custom kitchen and bathroom tour by clefairykay.bsky.social—from the wisteria-draped bath…](https://sotpages.github.io/palia-fan-hub/posts/bluesky-3myuiacqbwu25/post.md): 2026-10-27, bluesky quote
+- [Relatable pre-patch fishing pain from beawiitch.bsky.social while hunting makeshift furniture from…](https://sotpages.github.io/palia-fan-hub/posts/bluesky-3myuhnjkp5k22/post.md): 2026-10-27, bluesky quote
+- [Patch 0.208 (Fall's Faire: Hearty Homecoming) maintenance is live (7–10am PT)! • Beasts Unburdened…](https://sotpages.github.io/palia-fan-hub/posts/bluesky-3myuh2pql2g24/post.md): 2026-10-27, bluesky original
 - [From Palia fan @03europan on X: 「ウィークリーありがとうございました🤗🩷 今週もよろしくです～✌️😆✨」 Our translation: Wrapping up…](https://sotpages.github.io/palia-fan-hub/posts/bluesky-3mysiww44ju2b/post.md): 2026-10-26, bluesky original
 - [Good luck to @WandererThunder finishing up the Spiritfest Bulletin Board! 🎃👻 Reminder from the…](https://sotpages.github.io/palia-fan-hub/posts/x-2114807865034830329/post.md): 2026-10-26, x quote
 - [チャパクロ釣り大会1周年の後ろでこっそり釣り糸を垂らし、念願の巨大サメをついに釣り上げた @aki_nashug さん🦈🎣 芝生に4匹並んだサメぬい達が壮観です✨ #Palia #パリア](https://sotpages.github.io/palia-fan-hub/posts/x-2114807581659246648/post.md): 2026-10-26, x quote
