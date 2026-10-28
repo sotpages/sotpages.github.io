@@ -9,6 +9,7 @@ Notes for models:
 
 ## Foodie Wire: Utah County food news
 
+- [BYU Creamery on Ninth has opened its new 19,000-sq-ft Provo store and grill just west of 1209 N.…](https://sotpages.github.io/foodie-wire/posts/x-2115449973386936335/post.md): 2026-10-28, x original
 - [Taco Culture is open at 456 E. State Rd. in American Fork (Mon-Sat 11am-10pm, closed Sun) with…](https://sotpages.github.io/foodie-wire/posts/x-2115165530122334692/post.md): 2026-10-27, x original
 - [Parlor Doughnuts has opened its second Utah County shop at 2319 N. 400 W. in Provo (open Mon-Sat…](https://sotpages.github.io/foodie-wire/posts/x-2115088733091565609/post.md): 2026-10-27, x original
 - [Have you stopped by the new Jack in the Box at 937 W. State Rd. in American Fork yet? It joins…](https://sotpages.github.io/foodie-wire/posts/x-2114801838356926500/post.md): 2026-10-26, x original
@@ -54,6 +55,11 @@ Notes for models:
 
 ## Palia Fan Hub: Palia patch notes, news and events (unofficial)
 
+- [パッチ0.208の掲示板バンドルを残り2枠まで進めつつ、新友情クエストや「ルナの道」の報酬インテリアを楽しむ @okiyo_gm57 さん🪧…](https://sotpages.github.io/palia-fan-hub/posts/x-2115454036736647312/post.md): 2026-10-28, x quote
+- [虫取りレベル6,000の大記録達成と、パッチ0.208で新登場した「カニ戦士のぬいぐるみ」獲得を虫捕り会仲間とお祝いする @koharu_kotarou さん🦀🐝…](https://sotpages.github.io/palia-fan-hub/posts/x-2115453966867984621/post.md): 2026-10-28, x quote
+- [Aperçu complet du Patch 0.208 par @ArmelleAb : session skate en Trufflet dans le spot secret de la…](https://sotpages.github.io/palia-fan-hub/posts/x-2115453896957317307/post.md): 2026-10-28, x quote
+- [Ranch Corgi hype on Patch 0.208 update day with @TheGummiJay! Between the Pumpernickel, Rye &…](https://sotpages.github.io/palia-fan-hub/posts/x-2115453825150755283/post.md): 2026-10-28, x quote
+- [Cozy autumn night porch decorating from @doveestorm—complete with a glowing jack-o'-lantern,…](https://sotpages.github.io/palia-fan-hub/posts/x-2115453735631749570/post.md): 2026-10-28, x quote
 - [From Palia fan @C__W1nter_St0ry on X: wrapping up the new Patch 0.208 A Feast for Thought Bulletin…](https://sotpages.github.io/palia-fan-hub/posts/bluesky-3myv2mqmqkf22/post.md): 2026-10-27, bluesky original
 - [From Palia fan @SINpalia on X: completing all four Patch 0.208 A Feast for Thought Bulletin Board…](https://sotpages.github.io/palia-fan-hub/posts/bluesky-3myv26icxwj2p/post.md): 2026-10-27, bluesky original
 - [パッチ0.208の新掲示板バンドル「思案のごちそう」を早速全枠コンプリートして、そのまま釣りへと繰り出す @C__W1nter_St0ry さん🍂🎣 アプデ初日の充実したスタートですね！…](https://sotpages.github.io/palia-fan-hub/posts/x-2115169503256674425/post.md): 2026-10-27, x quote
