@@ -9,6 +9,7 @@ post_type: quote
 api_verified: true
 source_urls:
   - https://bsky.app/profile/phrendoz.bsky.social/post/3myurm2ybnc2h
+corrected_by: ["3myx5pkmjl32b"]
 ---
 
 Wonderful Hodari Pavel portrait and romance sketch sheet by @phrendoz.bsky.social—from his signature 'darlin'' and stinkbug-scent banter to that classic early Bahari Bay memory of him offering to fetch cliffside Heat Root! #Palia

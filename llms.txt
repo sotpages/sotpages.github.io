@@ -9,6 +9,7 @@ Notes for models:
 
 ## Foodie Wire: Utah County food news
 
+- [The Collective at Morning Vista (SR-92 and Morning Vista Rd., Lehi) brings Utah County's first…](https://sotpages.github.io/foodie-wire/posts/x-2115525768239620232/post.md): 2026-10-28, x original
 - [BYU Creamery on Ninth has opened its new 19,000-sq-ft Provo store and grill just west of 1209 N.…](https://sotpages.github.io/foodie-wire/posts/x-2115449973386936335/post.md): 2026-10-28, x original
 - [Taco Culture is open at 456 E. State Rd. in American Fork (Mon-Sat 11am-10pm, closed Sun) with…](https://sotpages.github.io/foodie-wire/posts/x-2115165530122334692/post.md): 2026-10-27, x original
 - [Parlor Doughnuts has opened its second Utah County shop at 2319 N. 400 W. in Provo (open Mon-Sat…](https://sotpages.github.io/foodie-wire/posts/x-2115088733091565609/post.md): 2026-10-27, x original
@@ -55,6 +56,17 @@ Notes for models:
 
 ## Palia Fan Hub: Palia patch notes, news and events (unofficial)
 
+- [バハリでのハニールアーで最後のタテジマカタツムリを捕まえて、パッチ0.208の掲示板バンドル4種をすべて完走された @miki1019happy さん🪧🎉…](https://sotpages.github.io/palia-fan-hub/posts/x-2115540190290985188/post.md): 2026-10-28, x quote
+- [PT協力でコーギーのクーポンを獲得し、パッチ0.208のカニカエル合戦1回目で新登場の「カニ戦士のぬいぐるみ」を引き当てた @belle16653448 さん🦀✨…](https://sotpages.github.io/palia-fan-hub/posts/x-2115540118606155923/post.md): 2026-10-28, x quote
+- [Handy Patch 0.208 Ranch Corgi guide from @TiffyMissWiffy! You can unlock your first Corgi through…](https://sotpages.github.io/palia-fan-hub/posts/x-2115540040931737790/post.md): 2026-10-28, x quote
+- [Magical cottage apothecary interior build by @clefairykay—featuring tiered potion-bottle shelving…](https://sotpages.github.io/palia-fan-hub/posts/x-2115539959180574879/post.md): 2026-10-28, x quote
+- [A closer look at the new Virtual Streetwear outfit from @playPalia in Patch 0.208, complete with a…](https://sotpages.github.io/palia-fan-hub/posts/x-2115539878335459516/post.md): 2026-10-28, x quote
+- [Cozy Halloween cottage entrance by @thyanel.bsky.social—flanking the cobblestone front stoop with…](https://sotpages.github.io/palia-fan-hub/posts/bluesky-3myxjldeeam25/post.md): 2026-10-28, bluesky quote
+- [From Palia fan @okiyo_gm57 on X: down to the final two items on the Patch 0.208 Bulletin Board…](https://sotpages.github.io/palia-fan-hub/posts/bluesky-3myxiw5puoh2w/post.md): 2026-10-28, bluesky original
+- [From Palia fan @koharu_kotarou on X: hitting Bug Catching Level 6,000 and celebrating a new Patch…](https://sotpages.github.io/palia-fan-hub/posts/bluesky-3myximllset2p/post.md): 2026-10-28, bluesky original
+- [From Palia fan @doveestorm on X: cozy autumn night porch decorating with a glowing…](https://sotpages.github.io/palia-fan-hub/posts/bluesky-3myxid3hgtq2z/post.md): 2026-10-28, bluesky original
+- [Correction: in our reply to @phrendoz.bsky.social's comic, we had the flashback order…](https://sotpages.github.io/palia-fan-hub/posts/bluesky-3myx5pkmjl32b/post.md): 2026-10-28, bluesky correction
+- [Correction to our earlier reply: we had the flashback order backwards—your OC already knew about…](https://sotpages.github.io/palia-fan-hub/posts/bluesky-3myx5g5ozye2t/post.md): 2026-10-28, bluesky correction
 - [パッチ0.208の掲示板バンドルを残り2枠まで進めつつ、新友情クエストや「ルナの道」の報酬インテリアを楽しむ @okiyo_gm57 さん🪧…](https://sotpages.github.io/palia-fan-hub/posts/x-2115454036736647312/post.md): 2026-10-28, x quote
 - [虫取りレベル6,000の大記録達成と、パッチ0.208で新登場した「カニ戦士のぬいぐるみ」獲得を虫捕り会仲間とお祝いする @koharu_kotarou さん🦀🐝…](https://sotpages.github.io/palia-fan-hub/posts/x-2115453966867984621/post.md): 2026-10-28, x quote
 - [Aperçu complet du Patch 0.208 par @ArmelleAb : session skate en Trufflet dans le spot secret de la…](https://sotpages.github.io/palia-fan-hub/posts/x-2115453896957317307/post.md): 2026-10-28, x quote
