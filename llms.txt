@@ -9,6 +9,7 @@ Notes for models:
 
 ## Foodie Wire: Utah County food news
 
+- [Heads up, Orem: Apollo Burger at 452 N State Street is temporarily closed for a remodel, with…](https://sotpages.github.io/foodie-wire/posts/x-2115888884710277563/post.md): 2026-10-29, x original
 - [LongHorn Steakhouse is coming to Pleasant Grove! The chain's new-locations page lists the…](https://sotpages.github.io/foodie-wire/posts/x-2115812815579615276/post.md): 2026-10-29, x original
 - [The Collective at Morning Vista (SR-92 and Morning Vista Rd., Lehi) brings Utah County's first…](https://sotpages.github.io/foodie-wire/posts/x-2115525768239620232/post.md): 2026-10-28, x original
 - [BYU Creamery on Ninth has opened its new 19,000-sq-ft Provo store and grill just west of 1209 N.…](https://sotpages.github.io/foodie-wire/posts/x-2115449973386936335/post.md): 2026-10-28, x original
@@ -57,6 +58,14 @@ Notes for models:
 
 ## Palia Fan Hub: Palia patch notes, news and events (unofficial)
 
+- [バンドルボード用にガーデンカタツムリを集めながら、「ガーデンカタツムリのぬいぐるみ」も新規ゲットした @amaiame6 さん🐌✨ カエルのテラリウム棚とカタツムリぬいに囲まれたお部屋も素敵です🫶…](https://sotpages.github.io/palia-fan-hub/posts/x-2115901343038886224/post.md): 2026-10-29, x quote
+- [パッチ0.208で釣りのレアドロップとして追加された「オオマンタのぬいぐるみ」と「どうもです」「あ、どうも」とあいさつを交わす @FptoHAXj5b0FnE6 さん🐟😂…](https://sotpages.github.io/palia-fan-hub/posts/x-2115901287133057487/post.md): 2026-10-29, x quote
+- [パッチ0.208の新ぬい「カニ戦士のぬいぐるみ」（カニカエル合戦の宝箱のレアドロップ）と「オオマンタのぬいぐるみ」（釣りのレアドロップ）を並べた @micchiy_nyanko さん🦀🐟…](https://sotpages.github.io/palia-fan-hub/posts/x-2115901213762113611/post.md): 2026-10-29, x quote
+- [コーギーを目指して狩りを頑張りつつ、カニカエル合戦の戦利品をずらっと並べた @aki_nashug さん🦀🐸…](https://sotpages.github.io/palia-fan-hub/posts/x-2115901136800768349/post.md): 2026-10-29, x quote
+- [The Path of the Classics Lunar Path is live in #Palia 🕹️📼 Per @playPalia's Patch 0.208 notes: 22…](https://sotpages.github.io/palia-fan-hub/posts/x-2115895871124783240/post.md): 2026-10-29, x quote
+- [@vakarians.bsky.social finally got their rugs from the #Palia Bulletin Board 🎉 Three of the four A…](https://sotpages.github.io/palia-fan-hub/posts/bluesky-3myzzuyvj3g2w/post.md): 2026-10-29, bluesky quote
+- [From Palia fan @FptoHAXj5b0FnE6 on X: a fishing trip turns into a polite "どうもです" / "あ、どうも"…](https://sotpages.github.io/palia-fan-hub/posts/bluesky-3myzz6pniw52w/post.md): 2026-10-29, bluesky original
+- [From Palia fan @micchiy_nyanko on X: two knife-wielding Crab Warrior Plushes flanking a Major…](https://sotpages.github.io/palia-fan-hub/posts/bluesky-3myzysb6mfw2b/post.md): 2026-10-29, bluesky original
 - [From Palia fan @maluhia015 on X: heading out before dawn to catch a crab for the bundle board and…](https://sotpages.github.io/palia-fan-hub/posts/bluesky-3myzkre2wku2y/post.md): 2026-10-29, bluesky original
 - [From Palia fan @yuzuponpon820 on X: reeling in two of the new Patch 0.208 Major Manta Plushes at…](https://sotpages.github.io/palia-fan-hub/posts/bluesky-3myzk6fehd722/post.md): 2026-10-29, bluesky original
 - [From Palia fan @TJRE496Ew94906 on X: thanks to the Patch 0.208 fix for the Medium Afro hair color…](https://sotpages.github.io/palia-fan-hub/posts/bluesky-3myzjhalvws2y/post.md): 2026-10-29, bluesky original
