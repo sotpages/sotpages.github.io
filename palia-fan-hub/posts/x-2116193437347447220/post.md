@@ -8,6 +8,7 @@ created_at: 2026-10-30T15:40:07Z
 post_type: quote
 api_verified: true
 source_urls:
+  - https://palia.com/news/208-twitch-drops
   - https://x.com/i/status/2115907751704723778
 ---
 

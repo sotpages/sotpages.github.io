@@ -8,6 +8,7 @@ created_at: 2026-10-30T15:39:54Z
 post_type: quote
 api_verified: true
 source_urls:
+  - https://palia.com/news/patch-208
   - https://x.com/i/status/2115973127700447265
 ---
 
