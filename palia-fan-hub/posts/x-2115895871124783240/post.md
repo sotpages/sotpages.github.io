@@ -9,6 +9,7 @@ post_type: quote
 api_verified: true
 source_urls:
   - https://palia.com/news/patch-208
+  - https://x.com/playPalia/status/2115851296737485074
   - https://x.com/i/status/2115851296737485074
 ---
 
