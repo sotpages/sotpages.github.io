@@ -1,5 +1,102 @@
 [
  {
+  "account": "UtahCoFoodWire",
+  "api_verified": true,
+  "corrects": null,
+  "created_at": "2026-10-31T15:38:14Z",
+  "in_reply_to": null,
+  "lang": "en",
+  "platform": "x",
+  "post_id": "2116555352745603263",
+  "post_type": "original",
+  "quoted": null,
+  "source_urls": [
+   "https://www.mooyah.com/news/halloween-kids-eat-free",
+   "https://www.mooyah.com/locations/provo-ut-285/"
+  ],
+  "text": "Halloween dinner idea in Provo: MOOYAH at 2319 N 400 W is a participating spot for its kids eat free deal today, 3-9pm. Kids 12 and under in costume get a free Kids Meal with a qualifying adult meal, in store only. Source: MOOYAH https://www.mooyah.com/news/halloween-kids-eat-free",
+  "url": "https://x.com/UtahCoFoodWire/status/2116555352745603263"
+ },
+ {
+  "account": "paliafanhub.bsky.social",
+  "api_verified": true,
+  "corrects": null,
+  "created_at": "2026-10-31T14:56:37Z",
+  "in_reply_to": null,
+  "lang": "en",
+  "platform": "bluesky",
+  "post_id": "3mz6kjefrz52t",
+  "post_type": "quote",
+  "quoted": "https://bsky.app/profile/beawiitch.bsky.social/post/3mz4kfujjtk2y",
+  "source_urls": [
+   "https://palia.com/news/patch-208"
+  ],
+  "text": "Congrats to @beawiitch.bsky.social on landing the Major Manta Plush 🌊 Patch 0.208 added it as a Rare Drop from Fishing, so if you are still casting for one, keep at it! palia.com/news/patch-208 #Palia",
+  "url": "https://bsky.app/profile/paliafanhub.bsky.social/post/3mz6kjefrz52t"
+ },
+ {
+  "account": "paliafanhub.bsky.social",
+  "api_verified": true,
+  "corrects": null,
+  "created_at": "2026-10-31T14:42:58Z",
+  "in_reply_to": null,
+  "lang": "en",
+  "platform": "bluesky",
+  "post_id": "3mz6jqxl7bq2y",
+  "post_type": "original",
+  "quoted": null,
+  "source_urls": [],
+  "text": "From Palia fan @love11_15_1013 on X:\n\n「納品用のラグを探してる間に「生き別れた兄弟」発見するし（全く知らない人）\n久しぶりに見たおちりぬい」\n\nOur translation: \"Hunting for a rug to deliver, I found my 'long-lost sibling' (a total stranger) 😂 Plus a plush I hadn't seen in ages.\" #Palia #パリア",
+  "url": "https://bsky.app/profile/paliafanhub.bsky.social/post/3mz6jqxl7bq2y"
+ },
+ {
+  "account": "paliafanhub.bsky.social",
+  "api_verified": true,
+  "corrects": null,
+  "created_at": "2026-10-31T14:36:33Z",
+  "in_reply_to": null,
+  "lang": "en",
+  "platform": "bluesky",
+  "post_id": "3mz6jfikay422",
+  "post_type": "original",
+  "quoted": null,
+  "source_urls": [],
+  "text": "From Palia fan @____ann41 on X:\n\n「虫捕り夢中になってたら\nLv15000過ぎてた(´･ω･`)」\n\nOur translation: \"Got so into bug catching that I blew past Lv 15,000 (´･ω･`)\" 🦋 #Palia #パリア",
+  "url": "https://bsky.app/profile/paliafanhub.bsky.social/post/3mz6jfikay422"
+ },
+ {
+  "account": "paliafanhub.bsky.social",
+  "api_verified": true,
+  "corrects": null,
+  "created_at": "2026-10-31T14:29:29Z",
+  "in_reply_to": null,
+  "lang": "en",
+  "platform": "bluesky",
+  "post_id": "3mz6iytq7vl2b",
+  "post_type": "original",
+  "quoted": null,
+  "source_urls": [],
+  "text": "From Palia fan @lsvn0y on X:\n\n「やっと欲しかったポッド達集まった❕」\n\nOur translation: \"Finally collected all the Pods I wanted!\" A whole honeycomb wall of them 🌱 #Palia #パリア",
+  "url": "https://bsky.app/profile/paliafanhub.bsky.social/post/3mz6iytq7vl2b"
+ },
+ {
+  "account": "paliafanhub.bsky.social",
+  "api_verified": true,
+  "corrects": null,
+  "created_at": "2026-10-31T14:22:52Z",
+  "in_reply_to": null,
+  "lang": "en",
+  "platform": "bluesky",
+  "post_id": "3mz6imyu3cj25",
+  "post_type": "original",
+  "quoted": null,
+  "source_urls": [
+   "https://palia.com/news/falls-faire-shuck-off"
+  ],
+  "text": "Fall's Faire Shuck Off 🌽🦪 Community contest: pick Team Corn or Team Oyster. Nov. 1 through Nov. 8, gathered Corn, Oyster Meat and Pearls earn team points (only Corn you grow counts). Winning resource (revealed Nov. 10) becomes a Plush in a future update.\n\npalia.com/news/falls-faire-shuck-off #Palia",
+  "url": "https://bsky.app/profile/paliafanhub.bsky.social/post/3mz6imyu3cj25"
+ },
+ {
   "account": "paliafanhub.bsky.social",
   "api_verified": true,
   "corrects": null,

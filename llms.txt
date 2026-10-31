@@ -9,6 +9,7 @@ Notes for models:
 
 ## Foodie Wire: Utah County food news
 
+- [Halloween dinner idea in Provo: MOOYAH at 2319 N 400 W is a participating spot for its kids eat…](https://sotpages.github.io/foodie-wire/posts/x-2116555352745603263/post.md): 2026-10-31, x original
 - [New-ish in Orem: Spitz, the Mediterranean street food chain, is open at 59 S State St (Sun-Thu…](https://sotpages.github.io/foodie-wire/posts/x-2116250478661320837/post.md): 2026-10-30, x original
 - [Heads up, Orem: Apollo Burger at 452 N State Street is temporarily closed for a remodel, with…](https://sotpages.github.io/foodie-wire/posts/x-2115888884710277563/post.md): 2026-10-29, x original
 - [LongHorn Steakhouse is coming to Pleasant Grove! The chain's new-locations page lists the…](https://sotpages.github.io/foodie-wire/posts/x-2115812815579615276/post.md): 2026-10-29, x original
@@ -59,6 +60,11 @@ Notes for models:
 
 ## Palia Fan Hub: Palia patch notes, news and events (unofficial)
 
+- [Congrats to @beawiitch.bsky.social on landing the Major Manta Plush 🌊 Patch 0.208 added it as a…](https://sotpages.github.io/palia-fan-hub/posts/bluesky-3mz6kjefrz52t/post.md): 2026-10-31, bluesky quote
+- [From Palia fan @love11_15_1013 on X: 「納品用のラグを探してる間に「生き別れた兄弟」発見するし（全く知らない人） 久しぶりに見たおちりぬい」 Our…](https://sotpages.github.io/palia-fan-hub/posts/bluesky-3mz6jqxl7bq2y/post.md): 2026-10-31, bluesky original
+- [From Palia fan @____ann41 on X: 「虫捕り夢中になってたら Lv15000過ぎてた(´･ω･`)」 Our translation: "Got so into bug…](https://sotpages.github.io/palia-fan-hub/posts/bluesky-3mz6jfikay422/post.md): 2026-10-31, bluesky original
+- [From Palia fan @lsvn0y on X: 「やっと欲しかったポッド達集まった❕」 Our translation: "Finally collected all the Pods…](https://sotpages.github.io/palia-fan-hub/posts/bluesky-3mz6iytq7vl2b/post.md): 2026-10-31, bluesky original
+- [Fall's Faire Shuck Off 🌽🦪 Community contest: pick Team Corn or Team Oyster. Nov. 1 through Nov. 8,…](https://sotpages.github.io/palia-fan-hub/posts/bluesky-3mz6imyu3cj25/post.md): 2026-10-31, bluesky original
 - [From Palia fan @mao_meow_games on X: 「ヘトヘトの中パリア畑だけしよ、、ってやったら色合い一気に2個出てくれた！」 Our translation:…](https://sotpages.github.io/palia-fan-hub/posts/bluesky-3mz4jyfnwrg2v/post.md): 2026-10-30, bluesky original
 - [From Palia fan @aki1207non on X: 「マンタぬい出た！ 今更だけど初ハイランドサメも釣れた」 Our translation: "Got the Manta…](https://sotpages.github.io/palia-fan-hub/posts/bluesky-3mz4ji6qn3522/post.md): 2026-10-30, bluesky original
 - [From Palia fan @GPyraten on X: "Thanks for hanging out in Palia today! 🌿 Hope you got your drops.…](https://sotpages.github.io/palia-fan-hub/posts/bluesky-3mz4j24j7d32n/post.md): 2026-10-30, bluesky original
