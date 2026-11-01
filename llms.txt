@@ -9,6 +9,7 @@ Notes for models:
 
 ## Foodie Wire: Utah County food news
 
+- [License news in Orem: Asado Argentinian Grill and Cafe at 360 S State St got a limited-service…](https://sotpages.github.io/foodie-wire/posts/x-2116991937547022582/post.md): 2026-11-01, x original
 - [Opening tomorrow: Raising Cane's Spanish Fork, 990 N 400 E, opens Mon Nov 2. Its location page…](https://sotpages.github.io/foodie-wire/posts/x-2116913996993626369/post.md): 2026-11-01, x original
 - [Krispy Kreme is giving a free Original Glazed or Classic Ring doughnut to guests in costume today…](https://sotpages.github.io/foodie-wire/posts/x-2116615174815703073/post.md): 2026-10-31, x original
 - [Pipeline: Hug-Hes American Kitchen, which lists six kitchens across Northern Utah, is headed to…](https://sotpages.github.io/foodie-wire/posts/x-2116614711424786727/post.md): 2026-10-31, x original
@@ -63,6 +64,9 @@ Notes for models:
 
 ## Palia Fan Hub: Palia patch notes, news and events (unofficial)
 
+- [Path of the Classics tip 🕹️ The new Lunar Path has 22 levels of free and Premium rewards, and per…](https://sotpages.github.io/palia-fan-hub/posts/x-2116997886529720674/post.md): 2026-11-01, x original
+- [Subira fan art from @coyoats.bsky.social, set in a misty purple Elderwood 💜🌲 Go give the artist…](https://sotpages.github.io/palia-fan-hub/posts/bluesky-3mzbop6sdqv2w/post.md): 2026-11-01, bluesky quote
+- [From Palia fan @ArmelleAb on X: 「J'ai terminé le tableau ! 🥰🥰🥰🥰🥰🥰🥰」 Our translation: "I finished…](https://sotpages.github.io/palia-fan-hub/posts/bluesky-3mzbntymlxl2p/post.md): 2026-11-01, bluesky original
 - [The Shuck Off starts today 🌽🦪 Points: Corn 5, Oyster Meat 2, Pearl 5, Green Pearl 10. Only Corn…](https://sotpages.github.io/palia-fan-hub/posts/x-2116920822787113191/post.md): 2026-11-01, x original
 - [A rainbow over @pandaax.bsky.social's plot 🌈🍂 Good week to grow, too: the Fall's Faire Shuck Off…](https://sotpages.github.io/palia-fan-hub/posts/bluesky-3mzb5os3qeb2n/post.md): 2026-11-01, bluesky quote
 - [From Palia fan @ArtemisSunshine on X: 「Newなコーギーのクーポン、マンタぬい&カニ戦士ぬいもGetできたけど…畑からのレシピがまだ来ぬ…🔁😅」 Our…](https://sotpages.github.io/palia-fan-hub/posts/bluesky-3mzb4ws4who22/post.md): 2026-11-01, bluesky original
@@ -260,6 +264,3 @@ Notes for models:
 - [Lovely Palia fan art from @coyoats.bsky.social 💜 Chibi Reth and Subira, right down to Reth's ladle…](https://sotpages.github.io/palia-fan-hub/posts/bluesky-3myfe7xyyyz2j/post.md): 2026-10-21, bluesky quote
 - [Already thinking past Spiritfest? 🍂 S6's Fall's Faire roadmap says the Hearty Homecoming update…](https://sotpages.github.io/palia-fan-hub/posts/x-2112626660466168024/post.md): 2026-10-20, x original
 - [Friendship Level 5 dropped with 0.207 for four villagers: Sifuu, Hassian, Taylin, and Ulfe 💌…](https://sotpages.github.io/palia-fan-hub/posts/x-2112204241653862766/post.md): 2026-10-19, x original
-- [Quick check: did you hit activate on Path of the Ghastly? 👻 The free path is open to everyone, but…](https://sotpages.github.io/palia-fan-hub/posts/x-2111906759585693938/post.md): 2026-10-18, x original
-- [Palcat owners, is your ranch putting the Herb Hunter trait to work? 🐈‍⬛🌿 The 0.207 notes say…](https://sotpages.github.io/palia-fan-hub/posts/x-2111827078035431460/post.md): 2026-10-18, x original
-- [PSA for the Spiritfest board grind 👻 you don't need a special route for Ectoplasm. It can pop up…](https://sotpages.github.io/palia-fan-hub/posts/x-2111546134795837874/post.md): 2026-10-17, x original
