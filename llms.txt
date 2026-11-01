@@ -9,6 +9,7 @@ Notes for models:
 
 ## Foodie Wire: Utah County food news
 
+- [Opening tomorrow: Raising Cane's Spanish Fork, 990 N 400 E, opens Mon Nov 2. Its location page…](https://sotpages.github.io/foodie-wire/posts/x-2116913996993626369/post.md): 2026-11-01, x original
 - [Krispy Kreme is giving a free Original Glazed or Classic Ring doughnut to guests in costume today…](https://sotpages.github.io/foodie-wire/posts/x-2116615174815703073/post.md): 2026-10-31, x original
 - [Pipeline: Hug-Hes American Kitchen, which lists six kitchens across Northern Utah, is headed to…](https://sotpages.github.io/foodie-wire/posts/x-2116614711424786727/post.md): 2026-10-31, x original
 - [Halloween dinner idea in Provo: MOOYAH at 2319 N 400 W is a participating spot for its kids eat…](https://sotpages.github.io/foodie-wire/posts/x-2116555352745603263/post.md): 2026-10-31, x original
@@ -62,6 +63,10 @@ Notes for models:
 
 ## Palia Fan Hub: Palia patch notes, news and events (unofficial)
 
+- [The Shuck Off starts today 🌽🦪 Points: Corn 5, Oyster Meat 2, Pearl 5, Green Pearl 10. Only Corn…](https://sotpages.github.io/palia-fan-hub/posts/x-2116920822787113191/post.md): 2026-11-01, x original
+- [A rainbow over @pandaax.bsky.social's plot 🌈🍂 Good week to grow, too: the Fall's Faire Shuck Off…](https://sotpages.github.io/palia-fan-hub/posts/bluesky-3mzb5os3qeb2n/post.md): 2026-11-01, bluesky quote
+- [From Palia fan @ArtemisSunshine on X: 「Newなコーギーのクーポン、マンタぬい&カニ戦士ぬいもGetできたけど…畑からのレシピがまだ来ぬ…🔁😅」 Our…](https://sotpages.github.io/palia-fan-hub/posts/bluesky-3mzb4ws4who22/post.md): 2026-11-01, bluesky original
+- [From Palia fan @PoussePalia on X: 「今夜のPaliaは、ついにレベルが 7777 になっちゃいました！！…](https://sotpages.github.io/palia-fan-hub/posts/bluesky-3mzb4k5zalf24/post.md): 2026-11-01, bluesky original
 - [Last call for Spiritfest 👻 Per patch 0.208, the Jaakcats are back to normal, but "they’ll continue…](https://sotpages.github.io/palia-fan-hub/posts/x-2116616935710265717/post.md): 2026-10-31, x original
 - [From Palia fan @amaiame6 on X: 「パリアで始めてのハロウィンです🍬 いつもと違う雰囲気の仮装をしようと、あれこれして眉毛無い感じになりました😉 気に入ってます👍」…](https://sotpages.github.io/palia-fan-hub/posts/bluesky-3mz72dw3va424/post.md): 2026-10-31, bluesky original
 - [From Palia fan @pal_shmolove on X: 「オオマンタぬいでた！かわちい！」 Our translation: "The Major Manta Plush…](https://sotpages.github.io/palia-fan-hub/posts/bluesky-3mz6zvlyy2t2t/post.md): 2026-10-31, bluesky original
@@ -258,7 +263,3 @@ Notes for models:
 - [Quick check: did you hit activate on Path of the Ghastly? 👻 The free path is open to everyone, but…](https://sotpages.github.io/palia-fan-hub/posts/x-2111906759585693938/post.md): 2026-10-18, x original
 - [Palcat owners, is your ranch putting the Herb Hunter trait to work? 🐈‍⬛🌿 The 0.207 notes say…](https://sotpages.github.io/palia-fan-hub/posts/x-2111827078035431460/post.md): 2026-10-18, x original
 - [PSA for the Spiritfest board grind 👻 you don't need a special route for Ectoplasm. It can pop up…](https://sotpages.github.io/palia-fan-hub/posts/x-2111546134795837874/post.md): 2026-10-17, x original
-- [Patch 0.207 recap (live Sep 29) - Spiritfest + Spooky Moon Store - Elouisa's Bulletin Board quest…](https://sotpages.github.io/palia-fan-hub/posts/x-2111477000494088421/post.md): 2026-10-17, x original
-- [🏡 Weekend spotlight: @clefairykay's plot "Fairy's Hollow," toured on @jupieverse's stream:…](https://sotpages.github.io/palia-fan-hub/posts/x-2111476752921039029/post.md): 2026-10-17, x quote
-- [1/ This Week in Palia (Oct 12–16) 🧵 Quiet week: no new news or patch notes since Patch 0.207 (Sep…](https://sotpages.github.io/palia-fan-hub/posts/x-2111177499317317662/post.md): 2026-10-16, x original
-- [⏳ Spiritfest deadline Official: it runs "through the end of October (independent of patch…](https://sotpages.github.io/palia-fan-hub/posts/x-2111161283080851955/post.md): 2026-10-16, x original
