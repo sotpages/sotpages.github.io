@@ -9,6 +9,7 @@ Notes for models:
 
 ## Foodie Wire: Utah County food news
 
+- [Chicken Salad Chick is coming to Spanish Fork: its second Utah spot opens Tue Nov 17 at 588 E…](https://sotpages.github.io/foodie-wire/posts/x-2117353500724404489/post.md): 2026-11-02, x original
 - [Spanish Fork gets its Cane's today, one of just two openings nationwide on Nov 2. 990 N 400 E,…](https://sotpages.github.io/foodie-wire/posts/x-2117277456663187653/post.md): 2026-11-02, x original
 - [License news in Orem: Asado Argentinian Grill and Cafe at 360 S State St got a limited-service…](https://sotpages.github.io/foodie-wire/posts/x-2116991937547022582/post.md): 2026-11-01, x original
 - [Opening tomorrow: Raising Cane's Spanish Fork, 990 N 400 E, opens Mon Nov 2. Its location page…](https://sotpages.github.io/foodie-wire/posts/x-2116913996993626369/post.md): 2026-11-01, x original
@@ -65,6 +66,8 @@ Notes for models:
 
 ## Palia Fan Hub: Palia patch notes, news and events (unofficial)
 
+- [From Palia fan @8R5PEh0UFiVmDe1 on X: 「先日初めてハイランドサメ釣れました🤣🎣🦈」 Our translation: "I caught my first…](https://sotpages.github.io/palia-fan-hub/posts/bluesky-3mze6rnelwh22/post.md): 2026-11-02, bluesky original
+- [Shuck Off check-in 🌽🦪 Team Corn or Oyster? Through Nov. 8, every Corn, Oyster Meat and Pearl you…](https://sotpages.github.io/palia-fan-hub/posts/x-2117353743079625105/post.md): 2026-11-02, x original
 - [Skatepark tip 🛹 Per patch 0.208, "there's something rad tucked away behind the Tower." Grab a…](https://sotpages.github.io/palia-fan-hub/posts/x-2117287425177436167/post.md): 2026-11-02, x original
 - [Home tour inspo 🏡💜 Lavender Cottage, shown by @beawiitch.bsky.social on their home tours: flower…](https://sotpages.github.io/palia-fan-hub/posts/bluesky-3mzdozflmas25/post.md): 2026-11-02, bluesky quote
 - [From Palia fan @HodarisWorld on X: 「フラッターフォックスを数匹飼い育ててやっと絹綿が揃い看板クエストクリアすることが出来ました🙏」 Our…](https://sotpages.github.io/palia-fan-hub/posts/bluesky-3mzdmy55bl72y/post.md): 2026-11-02, bluesky original
@@ -263,5 +266,3 @@ Notes for models:
 - [@aki1207non さんの釣り記録🎣 マーメイド釣り中に星付きと感染を両方ゲット！どちらも実績への反映は家に帰ってからだったそうなので、すぐ反映されなくても焦らなくて大丈夫かも🧜‍♀️](https://sotpages.github.io/palia-fan-hub/posts/x-2112920777557426290/post.md): 2026-10-21, x quote
 - [@amatotitoame さん、一度途切れても再スタートして「連続ログインII」30日を達成🎉 毎日ちょっとずつ続けるパリア生活、ほんと見習いたい…！ #パリア](https://sotpages.github.io/palia-fan-hub/posts/x-2112920734674899154/post.md): 2026-10-21, x quote
 - [@SINpalia さん、家具作りがついにレベル3,000に到達…！🪑 キャンドルとクモの巣に囲まれた中での達成画面、ハロウィンの記念ショットとしても完璧です🕯️ #パリア](https://sotpages.github.io/palia-fan-hub/posts/x-2112920680815886713/post.md): 2026-10-21, x quote
-- [@clefairykay.bsky.social's Palia builds just passed 300k views 🌿🍎 Her kitchen-witch interiors are…](https://sotpages.github.io/palia-fan-hub/posts/bluesky-3myfea6iij72y/post.md): 2026-10-21, bluesky quote
-- [Spiritfest reminder for Palia players 🎃 Per the 0.207 patch notes it runs "through the end of…](https://sotpages.github.io/palia-fan-hub/posts/bluesky-3myfea3625p2v/post.md): 2026-10-21, bluesky quote

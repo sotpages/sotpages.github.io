@@ -1,5 +1,54 @@
 [
  {
+  "account": "paliafanhub.bsky.social",
+  "api_verified": true,
+  "corrects": null,
+  "created_at": "2026-11-02T20:42:28Z",
+  "in_reply_to": null,
+  "lang": "ja",
+  "platform": "bluesky",
+  "post_id": "3mze6rnelwh22",
+  "post_type": "original",
+  "quoted": null,
+  "source_urls": [],
+  "text": "From Palia fan @8R5PEh0UFiVmDe1 on X:\n\n「先日初めてハイランドサメ釣れました🤣🎣🦈」\n\nOur translation: \"I caught my first Highland Shark the other day 🤣🎣🦈\" #Palia #パリア",
+  "url": "https://bsky.app/profile/paliafanhub.bsky.social/post/3mze6rnelwh22"
+ },
+ {
+  "account": "PaliaFanHub",
+  "api_verified": true,
+  "corrects": null,
+  "created_at": "2026-11-02T20:30:45Z",
+  "in_reply_to": null,
+  "lang": "en",
+  "platform": "x",
+  "post_id": "2117353743079625105",
+  "post_type": "original",
+  "quoted": null,
+  "source_urls": [
+   "https://palia.com/news/falls-faire-shuck-off"
+  ],
+  "text": "Shuck Off check-in 🌽🦪 Team Corn or Oyster? Through Nov. 8, every Corn, Oyster Meat and Pearl you gather scores for your team; the winning resource becomes a Plush in a future update 🧸 Only Corn you grow yourself counts. Winner revealed Nov. 10.\nhttps://palia.com/news/falls-faire-shuck-off #Palia",
+  "url": "https://x.com/PaliaFanHub/status/2117353743079625105"
+ },
+ {
+  "account": "UtahCoFoodWire",
+  "api_verified": true,
+  "corrects": null,
+  "created_at": "2026-11-02T20:29:47Z",
+  "in_reply_to": null,
+  "lang": "en",
+  "platform": "x",
+  "post_id": "2117353500724404489",
+  "post_type": "original",
+  "quoted": null,
+  "source_urls": [
+   "https://www.prnewswire.com/news-releases/chicken-salad-chick-to-open-second-utah-restaurant-302926751.html"
+  ],
+  "text": "Chicken Salad Chick is coming to Spanish Fork: its second Utah spot opens Tue Nov 17 at 588 E Commerce Way, with a drive-thru and Mon-Sat hours of 10am to 8pm. The first 100 in line (app required) get free chicken salad for a year. Source: https://www.prnewswire.com/news-releases/chicken-salad-chick-to-open-second-utah-restaurant-302926751.html",
+  "url": "https://x.com/UtahCoFoodWire/status/2117353500724404489"
+ },
+ {
   "account": "PaliaFanHub",
   "api_verified": true,
   "corrects": null,
