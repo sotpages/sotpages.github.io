@@ -9,6 +9,7 @@ Notes for models:
 
 ## Foodie Wire: Utah County food news
 
+- [Spanish Fork gets its Cane's today, one of just two openings nationwide on Nov 2. 990 N 400 E,…](https://sotpages.github.io/foodie-wire/posts/x-2117277456663187653/post.md): 2026-11-02, x original
 - [License news in Orem: Asado Argentinian Grill and Cafe at 360 S State St got a limited-service…](https://sotpages.github.io/foodie-wire/posts/x-2116991937547022582/post.md): 2026-11-01, x original
 - [Opening tomorrow: Raising Cane's Spanish Fork, 990 N 400 E, opens Mon Nov 2. Its location page…](https://sotpages.github.io/foodie-wire/posts/x-2116913996993626369/post.md): 2026-11-01, x original
 - [Krispy Kreme is giving a free Original Glazed or Classic Ring doughnut to guests in costume today…](https://sotpages.github.io/foodie-wire/posts/x-2116615174815703073/post.md): 2026-10-31, x original
@@ -64,6 +65,9 @@ Notes for models:
 
 ## Palia Fan Hub: Palia patch notes, news and events (unofficial)
 
+- [Skatepark tip 🛹 Per patch 0.208, "there's something rad tucked away behind the Tower." Grab a…](https://sotpages.github.io/palia-fan-hub/posts/x-2117287425177436167/post.md): 2026-11-02, x original
+- [Home tour inspo 🏡💜 Lavender Cottage, shown by @beawiitch.bsky.social on their home tours: flower…](https://sotpages.github.io/palia-fan-hub/posts/bluesky-3mzdozflmas25/post.md): 2026-11-02, bluesky quote
+- [From Palia fan @HodarisWorld on X: 「フラッターフォックスを数匹飼い育ててやっと絹綿が揃い看板クエストクリアすることが出来ました🙏」 Our…](https://sotpages.github.io/palia-fan-hub/posts/bluesky-3mzdmy55bl72y/post.md): 2026-11-02, bluesky original
 - [Path of the Classics tip 🕹️ The new Lunar Path has 22 levels of free and Premium rewards, and per…](https://sotpages.github.io/palia-fan-hub/posts/x-2116997886529720674/post.md): 2026-11-01, x original
 - [Subira fan art from @coyoats.bsky.social, set in a misty purple Elderwood 💜🌲 Go give the artist…](https://sotpages.github.io/palia-fan-hub/posts/bluesky-3mzbop6sdqv2w/post.md): 2026-11-01, bluesky quote
 - [From Palia fan @ArmelleAb on X: 「J'ai terminé le tableau ! 🥰🥰🥰🥰🥰🥰🥰」 Our translation: "I finished…](https://sotpages.github.io/palia-fan-hub/posts/bluesky-3mzbntymlxl2p/post.md): 2026-11-01, bluesky original
@@ -261,6 +265,3 @@ Notes for models:
 - [@SINpalia さん、家具作りがついにレベル3,000に到達…！🪑 キャンドルとクモの巣に囲まれた中での達成画面、ハロウィンの記念ショットとしても完璧です🕯️ #パリア](https://sotpages.github.io/palia-fan-hub/posts/x-2112920680815886713/post.md): 2026-10-21, x quote
 - [@clefairykay.bsky.social's Palia builds just passed 300k views 🌿🍎 Her kitchen-witch interiors are…](https://sotpages.github.io/palia-fan-hub/posts/bluesky-3myfea6iij72y/post.md): 2026-10-21, bluesky quote
 - [Spiritfest reminder for Palia players 🎃 Per the 0.207 patch notes it runs "through the end of…](https://sotpages.github.io/palia-fan-hub/posts/bluesky-3myfea3625p2v/post.md): 2026-10-21, bluesky quote
-- [Lovely Palia fan art from @coyoats.bsky.social 💜 Chibi Reth and Subira, right down to Reth's ladle…](https://sotpages.github.io/palia-fan-hub/posts/bluesky-3myfe7xyyyz2j/post.md): 2026-10-21, bluesky quote
-- [Already thinking past Spiritfest? 🍂 S6's Fall's Faire roadmap says the Hearty Homecoming update…](https://sotpages.github.io/palia-fan-hub/posts/x-2112626660466168024/post.md): 2026-10-20, x original
-- [Friendship Level 5 dropped with 0.207 for four villagers: Sifuu, Hassian, Taylin, and Ulfe 💌…](https://sotpages.github.io/palia-fan-hub/posts/x-2112204241653862766/post.md): 2026-10-19, x original
