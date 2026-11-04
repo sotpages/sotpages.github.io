@@ -9,6 +9,11 @@ Notes for models:
 
 ## Foodie Wire: Utah County food news
 
+- [Officially collecting fast food likes like Infinity Stones. @Wendys just liked our reply. @Popeyes…](https://sotpages.github.io/foodie-wire/posts/x-2118081120638218443/post.md): 2026-11-04, x quote
+- [RT @Wendys: @UtahCoFoodWire U can still play the game in Utah](https://sotpages.github.io/foodie-wire/posts/x-2118079237869769005/post.md): 2026-11-04, x original
+- [Opinion poll: it's Wednesday and you need a dirty soda in Utah County. Where are you going?](https://sotpages.github.io/foodie-wire/posts/x-2118079130860400643/post.md): 2026-11-04, x original
+- [Popeyes says the Cajun onion rings are back, so the 2021 wish came true. Utah County, settle it:…](https://sotpages.github.io/foodie-wire/posts/x-2118078733378785579/post.md): 2026-11-04, x quote
+- [Thirst Rivalry Week runs thru Nov 7: order The BYU or The Utah drink, enter your ticket on…](https://sotpages.github.io/foodie-wire/posts/x-2118078500452352246/post.md): 2026-11-04, x original
 - [DEALS TODAY, Utah County: 1) Subway Sub Club Footlong BOGO, app/online only, thru Nov 8 at…](https://sotpages.github.io/foodie-wire/posts/x-2118001612887326852/post.md): 2026-11-04, x original
 - [Chicken Salad Chick is coming to Spanish Fork: its second Utah spot opens Tue Nov 17 at 588 E…](https://sotpages.github.io/foodie-wire/posts/x-2117353500724404489/post.md): 2026-11-02, x original
 - [Spanish Fork gets its Cane's today, one of just two openings nationwide on Nov 2. 990 N 400 E,…](https://sotpages.github.io/foodie-wire/posts/x-2117277456663187653/post.md): 2026-11-02, x original
@@ -67,6 +72,8 @@ Notes for models:
 
 ## Palia Fan Hub: Palia patch notes, news and events (unofficial)
 
+- [From Palia fan @aki1207non on X: 「フラッターフォックスのやつ回収出来たので納品 最近簡単じゃないやつはデイリーで済ませてたから全部納品したの久々だ」 Our…](https://sotpages.github.io/palia-fan-hub/posts/bluesky-3mzj7mqtnme2z/post.md): 2026-11-04, bluesky original
+- [Skatepark tip 🛹 Stuck after hopping off your board in the Tower's secret skate spot? Per the patch…](https://sotpages.github.io/palia-fan-hub/posts/x-2118078796561846662/post.md): 2026-11-04, x original
 - [A warmup sketch of Hassian drawing his bow by @phrendoz.bsky.social 🏹 Love the motion in the…](https://sotpages.github.io/palia-fan-hub/posts/bluesky-3mziqrc22wl22/post.md): 2026-11-04, bluesky quote
 - [From Palia fan @PoussePalia on X: 「今夜の #Palia は、ついに カニ戦士のぬいぐるみ が出てくれました！！」 Our translation:…](https://sotpages.github.io/palia-fan-hub/posts/bluesky-3mzip2gxsjh2p/post.md): 2026-11-04, bluesky original
 - [Ranch Corgi tip 🐕 Per patch 0.208, Corgis are a Rare Drop from hunting Chapaa, Muujin and Jaakcat…](https://sotpages.github.io/palia-fan-hub/posts/x-2118002430889869644/post.md): 2026-11-04, x original
@@ -265,5 +272,3 @@ Notes for models:
 - [@aki1207non さん、星付きマジリ・オブ・ウォーで太古の森の星魚をコンプ🎣⭐ 実績「太古の森の釣り師（上級）」クリアおめでとうございます！昨日のマーメイドからの勢いがすごい✨ #パリア](https://sotpages.github.io/palia-fan-hub/posts/x-2113297552275894668/post.md): 2026-10-22, x quote
 - [Losing a Palia login streak to one busy day is a pain every Palian knows 😿…](https://sotpages.github.io/palia-fan-hub/posts/bluesky-3myhukyxrt525/post.md): 2026-10-22, bluesky quote
 - [New Palian alert 🌱 @biebschanges just started Palia and is already "becoming addicted." Always fun…](https://sotpages.github.io/palia-fan-hub/posts/x-2112990493244321986/post.md): 2026-10-21, x quote
-- [Switch 2版での復帰を考えている @07hisui さん🎮 公式によると「Palia – Nintendo Switch 2 Edition」は無料アップグレードとして「this…](https://sotpages.github.io/palia-fan-hub/posts/x-2112990414726967605/post.md): 2026-10-21, x quote
-- [長〜い道のりの末、@PoussePalia さんがついに市民プロジェクトを完了🎉 レジェンドタイトル「海の統治者」もゲット！ここからはのんびりまったりのパリア生活へ☕ #パリア](https://sotpages.github.io/palia-fan-hub/posts/x-2112990335890780493/post.md): 2026-10-21, x quote
