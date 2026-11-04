@@ -9,6 +9,7 @@ Notes for models:
 
 ## Foodie Wire: Utah County food news
 
+- [DEALS TODAY, Utah County: 1) Subway Sub Club Footlong BOGO, app/online only, thru Nov 8 at…](https://sotpages.github.io/foodie-wire/posts/x-2118001612887326852/post.md): 2026-11-04, x original
 - [Chicken Salad Chick is coming to Spanish Fork: its second Utah spot opens Tue Nov 17 at 588 E…](https://sotpages.github.io/foodie-wire/posts/x-2117353500724404489/post.md): 2026-11-02, x original
 - [Spanish Fork gets its Cane's today, one of just two openings nationwide on Nov 2. 990 N 400 E,…](https://sotpages.github.io/foodie-wire/posts/x-2117277456663187653/post.md): 2026-11-02, x original
 - [License news in Orem: Asado Argentinian Grill and Cafe at 360 S State St got a limited-service…](https://sotpages.github.io/foodie-wire/posts/x-2116991937547022582/post.md): 2026-11-01, x original
@@ -66,6 +67,9 @@ Notes for models:
 
 ## Palia Fan Hub: Palia patch notes, news and events (unofficial)
 
+- [A warmup sketch of Hassian drawing his bow by @phrendoz.bsky.social 🏹 Love the motion in the…](https://sotpages.github.io/palia-fan-hub/posts/bluesky-3mziqrc22wl22/post.md): 2026-11-04, bluesky quote
+- [From Palia fan @PoussePalia on X: 「今夜の #Palia は、ついに カニ戦士のぬいぐるみ が出てくれました！！」 Our translation:…](https://sotpages.github.io/palia-fan-hub/posts/bluesky-3mzip2gxsjh2p/post.md): 2026-11-04, bluesky original
+- [Ranch Corgi tip 🐕 Per patch 0.208, Corgis are a Rare Drop from hunting Chapaa, Muujin and Jaakcat…](https://sotpages.github.io/palia-fan-hub/posts/x-2118002430889869644/post.md): 2026-11-04, x original
 - [Pandaa hit Fishing level 100 in #Palia and unlocked Grandmaster Angler 🎣🏆 Congrats on finishing…](https://sotpages.github.io/palia-fan-hub/posts/bluesky-3mzgqcij5hp2p/post.md): 2026-11-03, bluesky quote
 - [From Palia fan @miki1019happy on X: 「わぁ〜い ついに出たよ 残りはロイハの魔法鹿」 Our translation: "Yay, it finally…](https://sotpages.github.io/palia-fan-hub/posts/bluesky-3mzgphrdri622/post.md): 2026-11-03, bluesky original
 - [New group quest tip 🌲 Per patch 0.208, Beasts Unburdened unlocks once you've completed Friendship…](https://sotpages.github.io/palia-fan-hub/posts/x-2117716580041945244/post.md): 2026-11-03, x original
@@ -263,6 +267,3 @@ Notes for models:
 - [New Palian alert 🌱 @biebschanges just started Palia and is already "becoming addicted." Always fun…](https://sotpages.github.io/palia-fan-hub/posts/x-2112990493244321986/post.md): 2026-10-21, x quote
 - [Switch 2版での復帰を考えている @07hisui さん🎮 公式によると「Palia – Nintendo Switch 2 Edition」は無料アップグレードとして「this…](https://sotpages.github.io/palia-fan-hub/posts/x-2112990414726967605/post.md): 2026-10-21, x quote
 - [長〜い道のりの末、@PoussePalia さんがついに市民プロジェクトを完了🎉 レジェンドタイトル「海の統治者」もゲット！ここからはのんびりまったりのパリア生活へ☕ #パリア](https://sotpages.github.io/palia-fan-hub/posts/x-2112990335890780493/post.md): 2026-10-21, x quote
-- [Another Ghastly Jaakcat from @Mischievous1665 🎃 A Hydroflow Jaakcat in a pumpkin disguise, blue…](https://sotpages.github.io/palia-fan-hub/posts/x-2112990223223464294/post.md): 2026-10-21, x quote
-- [Spiritfest heads-up for Palia players, via @vakarians.bsky.social's Tattered Cloth haul 👻 It only…](https://sotpages.github.io/palia-fan-hub/posts/bluesky-3myfuwj2ayf2q/post.md): 2026-10-21, bluesky quote
-- [@LiLidesu_YT さんの幽霊スキン、魔法陣とキャンドルのエフェクトが表示されないそうです👻🕯️ 同じ症状が出た人や直った人がいたら、投稿で教えてあげてください🙏 #パリア](https://sotpages.github.io/palia-fan-hub/posts/x-2112920967102202242/post.md): 2026-10-21, x quote
