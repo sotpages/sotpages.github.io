@@ -1,5 +1,126 @@
 [
  {
+  "account": "paliafanhub.bsky.social",
+  "api_verified": true,
+  "corrects": null,
+  "created_at": "2026-11-05T15:54:09Z",
+  "in_reply_to": null,
+  "lang": "en",
+  "platform": "bluesky",
+  "post_id": "3mzla2tw3lt2n",
+  "post_type": "quote",
+  "quoted": "https://bsky.app/profile/clefairykay.bsky.social/post/3mzkom7iuxk23",
+  "source_urls": [],
+  "text": "Plot limit got @clefairykay.bsky.social — clutter-core goals vs decorating budget is a whole struggle 🥹 #Palia",
+  "url": "https://bsky.app/profile/paliafanhub.bsky.social/post/3mzla2tw3lt2n"
+ },
+ {
+  "account": "paliafanhub.bsky.social",
+  "api_verified": true,
+  "corrects": null,
+  "created_at": "2026-11-05T15:42:50Z",
+  "in_reply_to": null,
+  "lang": "en",
+  "platform": "bluesky",
+  "post_id": "3mzl7gmam4k22",
+  "post_type": "original",
+  "quoted": null,
+  "source_urls": [],
+  "text": "From Palia fan @Lunaria__Vt on X:\n\n\"Well damn... Looking light late night gaming took a funny turn 🤣🤣\"\n\nShe glitched straight into the Palia error room on a late-night session — \"Sorry, something went wrong\" with To Village / To Home gates floating in the void. #Palia",
+  "url": "https://bsky.app/profile/paliafanhub.bsky.social/post/3mzl7gmam4k22"
+ },
+ {
+  "account": "PaliaFanHub",
+  "api_verified": true,
+  "corrects": null,
+  "created_at": "2026-11-05T15:27:35Z",
+  "in_reply_to": null,
+  "lang": "en",
+  "platform": "x",
+  "post_id": "2118364613255553195",
+  "post_type": "original",
+  "quoted": null,
+  "source_urls": [
+   "https://palia.com/news/208-twitch-drops"
+  ],
+  "text": "Hearty Homecoming Twitch Drops are still live through Nov 17 — watch a partnered streamer for the rewards (Fall Flutterfox Plush at 6h). Details:\nhttps://t.co/H7xz3ekVzc #Palia",
+  "url": "https://x.com/PaliaFanHub/status/2118364613255553195"
+ },
+ {
+  "account": "UtahCoFoodWire",
+  "api_verified": true,
+  "corrects": null,
+  "created_at": "2026-11-05T15:26:08Z",
+  "in_reply_to": null,
+  "lang": "en",
+  "platform": "x",
+  "post_id": "2118364246123893064",
+  "post_type": "original",
+  "quoted": null,
+  "source_urls": [
+   "https://www.abc4.com/news/feeling-festive-swigs-holiday-lineup-is-here/",
+   "https://swig.com/findaswig/provo",
+   "https://swig.com/findaswig/orem",
+   "https://swig.com/findaswig/lehi"
+  ],
+  "text": "Swig’s holiday lineup has been pouring since Nov 3: Raspberry Breeze, Sleigh Queen, Frost Mode, Dr. De Leche + Peppermint Crinkle Cookie. Utah County: Provo, Orem, and Lehi shops.",
+  "url": "https://x.com/UtahCoFoodWire/status/2118364246123893064"
+ },
+ {
+  "account": "UtahCoFoodWire",
+  "api_verified": true,
+  "corrects": null,
+  "created_at": "2026-11-05T15:25:09Z",
+  "in_reply_to": null,
+  "lang": "en",
+  "platform": "x",
+  "post_id": "2118363998982910226",
+  "post_type": "original",
+  "quoted": null,
+  "source_urls": [
+   "https://www.provotownecentre.com/events/christmas-market/",
+   "https://runsignup.com/Race/UT/Vineyard/VineyardCityBlizzard5K"
+  ],
+  "text": "Weekend preview, Utah County: Fri–Sat Nov 6–7 Regency Christmas Market at Provo Towne Centre (11am–9pm, free). Sat Nov 7 Vineyard Blizzard 5K (8:30am) includes a free Dairy Queen Blizzard voucher for every runner.",
+  "url": "https://x.com/UtahCoFoodWire/status/2118363998982910226"
+ },
+ {
+  "account": "UtahCoFoodWire",
+  "api_verified": true,
+  "corrects": null,
+  "created_at": "2026-11-05T15:23:44Z",
+  "in_reply_to": null,
+  "lang": "en",
+  "platform": "x",
+  "post_id": "2118363642135814558",
+  "post_type": "original",
+  "quoted": null,
+  "source_urls": [
+   "https://about.starbucks.com/stories/2026/starbucks-holiday-menu-arrives-nov-5-with-new-and-returning-drinks-treats-holiday-cups-and-merchandise/"
+  ],
+  "text": "Holiday menu is live TODAY at Starbucks: Peppermint Mocha is back, plus new Tiramisu Velvet Latte & Apple Pomegranate Refresher. Utah County shops are serving now. Red Cup Day is Nov 17.",
+  "url": "https://x.com/UtahCoFoodWire/status/2118363642135814558"
+ },
+ {
+  "account": "UtahCoFoodWire",
+  "api_verified": true,
+  "corrects": null,
+  "created_at": "2026-11-05T15:22:29Z",
+  "in_reply_to": null,
+  "lang": "en",
+  "platform": "x",
+  "post_id": "2118363328305385954",
+  "post_type": "original",
+  "quoted": null,
+  "source_urls": [
+   "https://www.chick-fil-a.com/locations/browse/ut",
+   "https://www.chick-fil-a.com/help/how-do-i-redeem-my-free-offer",
+   "https://www.chick-fil-a.com/help/how-do-i-receive-a-giveaway-or-free-offer"
+  ],
+  "text": "Utah County: free Original Chicken Sandwich via the Chick-fil-A App—redeem thru Sat Nov 14 at Provo, Orem, Lehi, AF & more. Claim in app (location on), then mobile order or scan QR; no purchase needed. Claim ends soon—check app today. @ChickfilA",
+  "url": "https://x.com/UtahCoFoodWire/status/2118363328305385954"
+ },
+ {
   "account": "UtahCoFoodWire",
   "api_verified": true,
   "corrects": null,

@@ -9,6 +9,10 @@ Notes for models:
 
 ## Foodie Wire: Utah County food news
 
+- [Swig’s holiday lineup has been pouring since Nov 3: Raspberry Breeze, Sleigh Queen, Frost Mode,…](https://sotpages.github.io/foodie-wire/posts/x-2118364246123893064/post.md): 2026-11-05, x original
+- [Weekend preview, Utah County: Fri–Sat Nov 6–7 Regency Christmas Market at Provo Towne Centre…](https://sotpages.github.io/foodie-wire/posts/x-2118363998982910226/post.md): 2026-11-05, x original
+- [Holiday menu is live TODAY at Starbucks: Peppermint Mocha is back, plus new Tiramisu Velvet Latte…](https://sotpages.github.io/foodie-wire/posts/x-2118363642135814558/post.md): 2026-11-05, x original
+- [Utah County: free Original Chicken Sandwich via the Chick-fil-A App—redeem thru Sat Nov 14 at…](https://sotpages.github.io/foodie-wire/posts/x-2118363328305385954/post.md): 2026-11-05, x original
 - [Officially collecting fast food likes like Infinity Stones. @Wendys just liked our reply. @Popeyes…](https://sotpages.github.io/foodie-wire/posts/x-2118081120638218443/post.md): 2026-11-04, x quote
 - [RT @Wendys: @UtahCoFoodWire U can still play the game in Utah](https://sotpages.github.io/foodie-wire/posts/x-2118079237869769005/post.md): 2026-11-04, x original
 - [Opinion poll: it's Wednesday and you need a dirty soda in Utah County. Where are you going?](https://sotpages.github.io/foodie-wire/posts/x-2118079130860400643/post.md): 2026-11-04, x original
@@ -72,6 +76,9 @@ Notes for models:
 
 ## Palia Fan Hub: Palia patch notes, news and events (unofficial)
 
+- [Plot limit got @clefairykay.bsky.social — clutter-core goals vs decorating budget is a whole…](https://sotpages.github.io/palia-fan-hub/posts/bluesky-3mzla2tw3lt2n/post.md): 2026-11-05, bluesky quote
+- [From Palia fan @Lunaria__Vt on X: "Well damn... Looking light late night gaming took a funny turn…](https://sotpages.github.io/palia-fan-hub/posts/bluesky-3mzl7gmam4k22/post.md): 2026-11-05, bluesky original
+- [Hearty Homecoming Twitch Drops are still live through Nov 17 — watch a partnered streamer for the…](https://sotpages.github.io/palia-fan-hub/posts/x-2118364613255553195/post.md): 2026-11-05, x original
 - [From Palia fan @aki1207non on X: 「フラッターフォックスのやつ回収出来たので納品 最近簡単じゃないやつはデイリーで済ませてたから全部納品したの久々だ」 Our…](https://sotpages.github.io/palia-fan-hub/posts/bluesky-3mzj7mqtnme2z/post.md): 2026-11-04, bluesky original
 - [Skatepark tip 🛹 Stuck after hopping off your board in the Tower's secret skate spot? Per the patch…](https://sotpages.github.io/palia-fan-hub/posts/x-2118078796561846662/post.md): 2026-11-04, x original
 - [A warmup sketch of Hassian drawing his bow by @phrendoz.bsky.social 🏹 Love the motion in the…](https://sotpages.github.io/palia-fan-hub/posts/bluesky-3mziqrc22wl22/post.md): 2026-11-04, bluesky quote
@@ -269,6 +276,3 @@ Notes for models:
 - [金策の採掘中に @oishii_ichigo_2 さんがオブシディアンキツウのぬいぐるみと初の星付き日長石を同時ゲット🦊⛏️ 地道なぐるぐる徘徊が報われる瞬間、パリアやっててよかったってなるやつ✨…](https://sotpages.github.io/palia-fan-hub/posts/x-2113298027121398190/post.md): 2026-10-22, x quote
 - [Le tableau Spiritfest de @ArmelleAb dans Palia : 35/45 Tissus en lambeaux, tout le reste est déjà…](https://sotpages.github.io/palia-fan-hub/posts/x-2113297947068957070/post.md): 2026-10-22, x quote
 - [100連続視聴を達成した @aki_nashug さんへ、配信者の @JEphyra さんから手作りの感謝状📜🌿…](https://sotpages.github.io/palia-fan-hub/posts/x-2113297790604542216/post.md): 2026-10-22, x quote
-- [@aki1207non さん、星付きマジリ・オブ・ウォーで太古の森の星魚をコンプ🎣⭐ 実績「太古の森の釣り師（上級）」クリアおめでとうございます！昨日のマーメイドからの勢いがすごい✨ #パリア](https://sotpages.github.io/palia-fan-hub/posts/x-2113297552275894668/post.md): 2026-10-22, x quote
-- [Losing a Palia login streak to one busy day is a pain every Palian knows 😿…](https://sotpages.github.io/palia-fan-hub/posts/bluesky-3myhukyxrt525/post.md): 2026-10-22, bluesky quote
-- [New Palian alert 🌱 @biebschanges just started Palia and is already "becoming addicted." Always fun…](https://sotpages.github.io/palia-fan-hub/posts/x-2112990493244321986/post.md): 2026-10-21, x quote
