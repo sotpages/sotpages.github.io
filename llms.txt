@@ -9,6 +9,9 @@ Notes for models:
 
 ## Foodie Wire: Utah County food news
 
+- [Utah County Provo and Lehi Wingstops are standing by for that prescription.](https://sotpages.github.io/foodie-wire/posts/x-2118441687358083265/post.md): 2026-11-05, x quote
+- [This week at Thirst: Apple Cider Glazed Beignet Bites with apple cinnamon cream cheese dip, plus…](https://sotpages.github.io/foodie-wire/posts/x-2118441433506173085/post.md): 2026-11-05, x original
+- [Utah County heads-up: The Espeto Grill in Lehi takes orders thru tonight (Thu midnight) for Sat…](https://sotpages.github.io/foodie-wire/posts/x-2118441138017517853/post.md): 2026-11-05, x original
 - [Swig’s holiday lineup has been pouring since Nov 3: Raspberry Breeze, Sleigh Queen, Frost Mode,…](https://sotpages.github.io/foodie-wire/posts/x-2118364246123893064/post.md): 2026-11-05, x original
 - [Weekend preview, Utah County: Fri–Sat Nov 6–7 Regency Christmas Market at Provo Towne Centre…](https://sotpages.github.io/foodie-wire/posts/x-2118363998982910226/post.md): 2026-11-05, x original
 - [Holiday menu is live TODAY at Starbucks: Peppermint Mocha is back, plus new Tiramisu Velvet Latte…](https://sotpages.github.io/foodie-wire/posts/x-2118363642135814558/post.md): 2026-11-05, x original
@@ -76,6 +79,8 @@ Notes for models:
 
 ## Palia Fan Hub: Palia patch notes, news and events (unofficial)
 
+- [Palia × Extra Life is live — donations support kids at Children's Hospital Los Angeles, and unlock…](https://sotpages.github.io/palia-fan-hub/posts/x-2118444333645148366/post.md): 2026-11-05, x original
+- [From Palia fan @amaiame6 on X: 「最近撮ったもの📸 魔法生物が集っていると嬉しい😆 どっちから狙うか迷いますなぁ🏹 よく見たら月の影が2つ🌛🌝…](https://sotpages.github.io/palia-fan-hub/posts/bluesky-3mzlqao6mlx2p/post.md): 2026-11-05, bluesky original
 - [Plot limit got @clefairykay.bsky.social — clutter-core goals vs decorating budget is a whole…](https://sotpages.github.io/palia-fan-hub/posts/bluesky-3mzla2tw3lt2n/post.md): 2026-11-05, bluesky quote
 - [From Palia fan @Lunaria__Vt on X: "Well damn... Looking light late night gaming took a funny turn…](https://sotpages.github.io/palia-fan-hub/posts/bluesky-3mzl7gmam4k22/post.md): 2026-11-05, bluesky original
 - [Hearty Homecoming Twitch Drops are still live through Nov 17 — watch a partnered streamer for the…](https://sotpages.github.io/palia-fan-hub/posts/x-2118364613255553195/post.md): 2026-11-05, x original
@@ -274,5 +279,3 @@ Notes for models:
 - [Palia sketch page from @coyoats.bsky.social: Subira and Fawn in panels that swing from sweet…](https://sotpages.github.io/palia-fan-hub/posts/bluesky-3myifllvc5t2j/post.md): 2026-10-22, bluesky quote
 - [@Coatlursa just adopted the moose beaver pet in Palia 🫎 Giant antlers, swirly fur, tusks, and it's…](https://sotpages.github.io/palia-fan-hub/posts/x-2113298097237532985/post.md): 2026-10-22, x quote
 - [金策の採掘中に @oishii_ichigo_2 さんがオブシディアンキツウのぬいぐるみと初の星付き日長石を同時ゲット🦊⛏️ 地道なぐるぐる徘徊が報われる瞬間、パリアやっててよかったってなるやつ✨…](https://sotpages.github.io/palia-fan-hub/posts/x-2113298027121398190/post.md): 2026-10-22, x quote
-- [Le tableau Spiritfest de @ArmelleAb dans Palia : 35/45 Tissus en lambeaux, tout le reste est déjà…](https://sotpages.github.io/palia-fan-hub/posts/x-2113297947068957070/post.md): 2026-10-22, x quote
-- [100連続視聴を達成した @aki_nashug さんへ、配信者の @JEphyra さんから手作りの感謝状📜🌿…](https://sotpages.github.io/palia-fan-hub/posts/x-2113297790604542216/post.md): 2026-10-22, x quote
