@@ -1,5 +1,117 @@
 [
  {
+  "account": "paliafanhub.bsky.social",
+  "api_verified": true,
+  "corrects": null,
+  "created_at": "2026-11-06T16:01:53Z",
+  "in_reply_to": null,
+  "lang": "ja",
+  "platform": "bluesky",
+  "post_id": "3mznqxlyzru24",
+  "post_type": "original",
+  "quoted": null,
+  "source_urls": [],
+  "text": "From Palia fan @hamukungame on X:\n\n「捨てようとした訳じゃないよ？ここで開けたら出ただけで😂」\n\nOur translation: \"It's not like I was gonna throw it away — I just opened it here and this popped out 😂\" Ancient Kitsuu Plush from a home-plot chest. #パリア #Palia",
+  "url": "https://bsky.app/profile/paliafanhub.bsky.social/post/3mznqxlyzru24"
+ },
+ {
+  "account": "paliafanhub.bsky.social",
+  "api_verified": true,
+  "corrects": null,
+  "created_at": "2026-11-06T15:54:25Z",
+  "in_reply_to": "at://did:plc:qdnhivdnpik7el5jmg7uftrq/app.bsky.feed.post/3mznqa3qv3s2j",
+  "lang": "en",
+  "platform": "bluesky",
+  "post_id": "3mznqkaffsp2f",
+  "post_type": "thread",
+  "quoted": null,
+  "source_urls": [],
+  "text": "More favorites: @pandaax.bsky.social's Grandmaster Angler grind earlier in the week, @asteriablue.bsky.social's board + plushie hunts, @mischievousgamez.bsky.social's Heartdrop Mantis find, and @coyoats.bsky.social's Subira art ✨ Thanks for sharing your Palia with us! Fan recap, not official 🍂",
+  "url": "https://bsky.app/profile/paliafanhub.bsky.social/post/3mznqkaffsp2f"
+ },
+ {
+  "account": "paliafanhub.bsky.social",
+  "api_verified": true,
+  "corrects": null,
+  "created_at": "2026-11-06T15:48:44Z",
+  "in_reply_to": "at://did:plc:qdnhivdnpik7el5jmg7uftrq/app.bsky.feed.post/3mznpsbbvyf2e",
+  "lang": "en",
+  "platform": "bluesky",
+  "post_id": "3mznqa3qv3s2j",
+  "post_type": "thread",
+  "quoted": null,
+  "source_urls": [],
+  "text": "Community highlights 💜 @clefairykay.bsky.social hit the plot limit (clutter-core vs decorating budget), @phrendoz.bsky.social shared a Hassian warmup sketch + RNGesus laughs, and @oliviascozydreams.bsky.social joined the cozy bake-stream energy 🍳",
+  "url": "https://bsky.app/profile/paliafanhub.bsky.social/post/3mznqa3qv3s2j"
+ },
+ {
+  "account": "paliafanhub.bsky.social",
+  "api_verified": true,
+  "corrects": null,
+  "created_at": "2026-11-06T15:41:00Z",
+  "in_reply_to": "at://did:plc:qdnhivdnpik7el5jmg7uftrq/app.bsky.feed.post/3mznphjgtdp2v",
+  "lang": "en",
+  "platform": "bluesky",
+  "post_id": "3mznpsbbvyf2e",
+  "post_type": "thread",
+  "quoted": null,
+  "source_urls": [
+   "https://x.com/playPalia/status/2118418308508668195",
+   "https://dd.extra-life.org/teams/singularity6"
+  ],
+  "text": "Also this week: @playPalia announced a Singularity 6 Extra Life team supporting kids at Children's Hospital Los Angeles — donation page + froggy rewards on their post. Unofficial fan hub; donate only if you can 🐸💚\nhttps://dd.extra-life.org/teams/singularity6",
+  "url": "https://bsky.app/profile/paliafanhub.bsky.social/post/3mznpsbbvyf2e"
+ },
+ {
+  "account": "paliafanhub.bsky.social",
+  "api_verified": true,
+  "corrects": null,
+  "created_at": "2026-11-06T15:35:00Z",
+  "in_reply_to": "at://did:plc:qdnhivdnpik7el5jmg7uftrq/app.bsky.feed.post/3mznp5xrgiv2q",
+  "lang": "en",
+  "platform": "bluesky",
+  "post_id": "3mznphjgtdp2v",
+  "post_type": "thread",
+  "quoted": null,
+  "source_urls": [
+   "https://palia.com/news/208-twitch-drops"
+  ],
+  "text": "Hearty Homecoming Twitch Drops still run through Tuesday, November 17 — Bulletin Board ingredients, a Pumpkin Pod, and the Fall Flutterfox Plush at 6h 🧸 Watch a Drops-enabled Palia stream with your account linked.\nhttps://palia.com/news/208-twitch-drops",
+  "url": "https://bsky.app/profile/paliafanhub.bsky.social/post/3mznphjgtdp2v"
+ },
+ {
+  "account": "paliafanhub.bsky.social",
+  "api_verified": true,
+  "corrects": null,
+  "created_at": "2026-11-06T15:29:39Z",
+  "in_reply_to": "at://did:plc:qdnhivdnpik7el5jmg7uftrq/app.bsky.feed.post/3mznouufjf22c",
+  "lang": "en",
+  "platform": "bluesky",
+  "post_id": "3mznp5xrgiv2q",
+  "post_type": "thread",
+  "quoted": null,
+  "source_urls": [
+   "https://palia.com/news/patch-208"
+  ],
+  "text": "Patch 0.208 \"Fall's Faire: Hearty Homecoming\" is still the live update — Beasts Unburdened with Sifuu/Hassian/Taylin/Ulfe, Jina's A Feast for Thought board, Path of the Classics, Ranch Corgi rare drop, Crab Warrior + Major Manta plushies, and the Tower skate spot 🛹\nhttps://palia.com/news/patch-208",
+  "url": "https://bsky.app/profile/paliafanhub.bsky.social/post/3mznp5xrgiv2q"
+ },
+ {
+  "account": "paliafanhub.bsky.social",
+  "api_verified": true,
+  "corrects": null,
+  "created_at": "2026-11-06T15:24:34Z",
+  "in_reply_to": null,
+  "lang": "en",
+  "platform": "bluesky",
+  "post_id": "3mznouufjf22c",
+  "post_type": "thread",
+  "quoted": null,
+  "source_urls": [],
+  "text": "🧵 #Palia Community & Patch Recap, week of Nov 1–6 🍂\n\nFrom an unofficial fan account: verified Patch 0.208 / Twitch Drops / Extra Life notes first (official sources linked), then some of this week's community highlights from Bluesky 👇",
+  "url": "https://bsky.app/profile/paliafanhub.bsky.social/post/3mznouufjf22c"
+ },
+ {
   "account": "PaliaFanHub",
   "api_verified": true,
   "corrects": null,
