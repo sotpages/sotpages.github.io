@@ -9,6 +9,13 @@ Notes for models:
 
 ## Foodie Wire: Utah County food news
 
+- [Still planning lunch? Station 22’s brunch/lunch menu lists a fried chicken sandwich with 24-hour…](https://sotpages.github.io/foodie-wire/posts/x-2119166379764953554/post.md): 2026-11-07, x original
+- [Provo postgame comfort-food option: Black Sheep Café lists Traditional Navajo Tacos on fry bread,…](https://sotpages.github.io/foodie-wire/posts/x-2119166088155889821/post.md): 2026-11-07, x original
+- [Sweet or savory after the rivalry? Waffle Love Provo says it serves both for lunch and dinner—not…](https://sotpages.github.io/foodie-wire/posts/x-2119165995558273249/post.md): 2026-11-07, x original
+- [Pizza or wings for the Holy War table? Two Jack’s lists Buffalo Blue Chicken pizza with blue…](https://sotpages.github.io/foodie-wire/posts/x-2119147611147948152/post.md): 2026-11-07, x original
+- [Provo-specific postgame option: Cubby’s says its 1258 N State St shop is the only location serving…](https://sotpages.github.io/foodie-wire/posts/x-2119147286848573664/post.md): 2026-11-07, x original
+- [Postgame food debate, Utah County: nachos or barbecue? Bam Bam’s in Orem puts both on one plate:…](https://sotpages.github.io/foodie-wire/posts/x-2119136721145098395/post.md): 2026-11-07, x original
+- [Holy War snack scouting: Thirst lists Pumpkin Cheesecake Beignet Bites—8 bites with pumpkin…](https://sotpages.github.io/foodie-wire/posts/x-2119134219066569159/post.md): 2026-11-07, x original
 - [Utah County Provo and Lehi Wingstops are standing by for that prescription.](https://sotpages.github.io/foodie-wire/posts/x-2118441687358083265/post.md): 2026-11-05, x quote
 - [This week at Thirst: Apple Cider Glazed Beignet Bites with apple cinnamon cream cheese dip, plus…](https://sotpages.github.io/foodie-wire/posts/x-2118441433506173085/post.md): 2026-11-05, x original
 - [Utah County heads-up: The Espeto Grill in Lehi takes orders thru tonight (Thu midnight) for Sat…](https://sotpages.github.io/foodie-wire/posts/x-2118441138017517853/post.md): 2026-11-05, x original
@@ -79,6 +86,7 @@ Notes for models:
 
 ## Palia Fan Hub: Palia patch notes, news and events (unofficial)
 
+- [Weekend stream plans? The Hearty Homecoming Twitch Drops run through Tuesday, November 17 —…](https://sotpages.github.io/palia-fan-hub/posts/x-2119164980264096169/post.md): 2026-11-07, x original
 - [From Palia fan @PoussePalia on X: 「ちょっと面倒な 水浸しのブーツ…](https://sotpages.github.io/palia-fan-hub/posts/bluesky-3mzq7krd7ze2n/post.md): 2026-11-07, bluesky original
 - [From Palia fan @choufusafusa on X: 「上を目指すには様々な障害があり、努力しても叶わなくて身の程を知る 現実もゲームも厳しいね」 Our translation:…](https://sotpages.github.io/palia-fan-hub/posts/bluesky-3mzq75dto7m2j/post.md): 2026-11-07, bluesky original
 - [From Palia fan @8R5PEh0UFiVmDe1 on X: 「カニ戦士のぬいぐるみやっと取れました🤣🦀」 Our translation: "Finally got the…](https://sotpages.github.io/palia-fan-hub/posts/bluesky-3mzoaaxxeda2u/post.md): 2026-11-06, bluesky original
@@ -278,4 +286,3 @@ Notes for models:
 - [Crystal (@mischievousgamez.bsky.social) has officially joined the Maji Market troublemakers in…](https://sotpages.github.io/palia-fan-hub/posts/bluesky-3mykfb2j6nr2w/post.md): 2026-10-23, bluesky quote
 - [Evie (@thatwitchylady.bsky.social) found a new pumpkin lure spot in Palia's Bahari where the frogs…](https://sotpages.github.io/palia-fan-hub/posts/bluesky-3mykfasc2pk2y/post.md): 2026-10-23, bluesky quote
 - [Palia Fan Hub 🍂 Unofficial fan account for Palia patch notes, news, events and alerts. News links…](https://sotpages.github.io/palia-fan-hub/posts/x-2113439773608321106/post.md): 2026-10-23, x original
-- [@amaiame6 さんの「自慢コーナー」🧸 手に入れたぬいぐるみを家の前に並べて飾るスタイル、パリアのぬい集めがもっと楽しくなりそう✨ パラソルとリンゴの荷車との組み合わせもかわいい🍎 #パリア](https://sotpages.github.io/palia-fan-hub/posts/x-2113375359957885160/post.md): 2026-10-22, x quote
