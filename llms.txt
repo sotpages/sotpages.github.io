@@ -9,6 +9,9 @@ Notes for models:
 
 ## Foodie Wire: Utah County food news
 
+- [Bunz Gourmet Burger is now open in the Orem Mall food court, 575 E University Pkwy Suite M-205.…](https://sotpages.github.io/foodie-wire/posts/x-2120979858989707332/post.md): 2026-11-12, x original
+- [Sat Nov 14, National Pickle Day: dress like a pickle at participating Jimmy John's for BOGO…](https://sotpages.github.io/foodie-wire/posts/x-2120931001727852704/post.md): 2026-11-12, x original
+- [Still this month: Taqueria 27 is offering free taco meals to veterans, including Lehi (1688 W…](https://sotpages.github.io/foodie-wire/posts/x-2120929610237898870/post.md): 2026-11-12, x original
 - [Spanish Fork: Chicken Salad Chick opens Tue Nov 17 at 588 E Commerce Way. First 100 in line can…](https://sotpages.github.io/foodie-wire/posts/x-2119890113849184639/post.md): 2026-11-09, x original
 - [Orem Crumbl is on Crumbl’s Holiday Dirty Soda pour list: Candy Cane Lane, Ice Queen, Monkey Bread,…](https://sotpages.github.io/foodie-wire/posts/x-2119889938879513062/post.md): 2026-11-09, x original
 - [Still planning lunch? Station 22’s brunch/lunch menu lists a fried chicken sandwich with 24-hour…](https://sotpages.github.io/foodie-wire/posts/x-2119166379764953554/post.md): 2026-11-07, x original
@@ -88,6 +91,8 @@ Notes for models:
 
 ## Palia Fan Hub: Palia patch notes, news and events (unofficial)
 
+- [Need a little harvest-kitchen clutter? Patch 0.208's Simple Sundries: the Case is acquired via the…](https://sotpages.github.io/palia-fan-hub/posts/x-2120981149870625175/post.md): 2026-11-12, x original
+- [Still waiting on the official Shuck Off result 🌽�� said the winner would be revealed Nov. 10, but…](https://sotpages.github.io/palia-fan-hub/posts/x-2120927937918607662/post.md): 2026-11-12, x original
 - [From Palia fan @grdprq on X: 「ログインしたらピクシーグローブ横に移動されてた…かわいい！」 Our translation: "When I logged in,…](https://sotpages.github.io/palia-fan-hub/posts/bluesky-3mzxrvtkgov2n/post.md): 2026-11-10, bluesky original
 - [@goodboyroxy.bsky.social caught Palia in its best light — sunset ruins, a cloud-sea temple, and…](https://sotpages.github.io/palia-fan-hub/posts/bluesky-3mzxrgxearn2q/post.md): 2026-11-10, bluesky quote
 - [Monday stream plans? Hearty Homecoming Twitch Drops still run through Tuesday, November 17 —…](https://sotpages.github.io/palia-fan-hub/posts/x-2119891178740932778/post.md): 2026-11-09, x original
@@ -286,5 +291,3 @@ Notes for models:
 - [寄付前のクッキー運試しシリーズ、今回は @ArtemisSunshine さんのアラバスターのエンバー🐴🍪…](https://sotpages.github.io/palia-fan-hub/posts/x-2113653734777774498/post.md): 2026-10-23, x quote
 - [@Mischievous1665 has officially joined the Maji Market troublemakers 🤠🖤 Matching wide-brim hats,…](https://sotpages.github.io/palia-fan-hub/posts/x-2113653640556917085/post.md): 2026-10-23, x quote
 - [@agnamarah let the boyfriend name a bee in Palia and now there's a crowned baby Bumble called…](https://sotpages.github.io/palia-fan-hub/posts/x-2113653564434522383/post.md): 2026-10-23, x quote
-- [アプデ告知を見てすぐ、刃物を持ったカニぬいに気づいた @aki1207non さん🦀 カニカエル合戦の報酬では？という予想、マンタぬいがあるならエイも…という流れも含めてワクワクする #パリア](https://sotpages.github.io/palia-fan-hub/posts/x-2113653480615514246/post.md): 2026-10-23, x quote
-- [トレーラーの幾何学的なネオン背景に注目した @TJRE496Ew94906 さんの考察🌴…](https://sotpages.github.io/palia-fan-hub/posts/x-2113649538452066809/post.md): 2026-10-23, x quote
