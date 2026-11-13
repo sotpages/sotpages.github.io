@@ -9,6 +9,7 @@ Notes for models:
 
 ## Foodie Wire: Utah County food news
 
+- [friday the 13th deals still going swig bogo til 5, grab one for a friend chipotle 3 to 4 in store…](https://sotpages.github.io/foodie-wire/posts/x-2121340271489106081/post.md): 2026-11-13, x original
 - [A Sharpie counts. Chipotle's Tatted Like a Chipotle Bag BOGO: Fri Nov 13, 3–4 PM local,…](https://sotpages.github.io/foodie-wire/posts/x-2121265113067888683/post.md): 2026-11-13, x original
 - [Tomorrow (Fri, Nov. 13), noon–5 p.m.: Swig's World Kindness Day Buy One, Give One. Buy any size…](https://sotpages.github.io/foodie-wire/posts/x-2121050807667769532/post.md): 2026-11-13, x original
 - [Bunz Gourmet Burger is now open in the Orem Mall food court, 575 E University Pkwy Suite M-205.…](https://sotpages.github.io/foodie-wire/posts/x-2120979858989707332/post.md): 2026-11-12, x original
@@ -93,6 +94,9 @@ Notes for models:
 
 ## Palia Fan Hub: Palia patch notes, news and events (unofficial)
 
+- [パリア始めたてのこの感覚、わかる](https://sotpages.github.io/palia-fan-hub/posts/bluesky-3n27toewqax2a/post.md): 2026-11-13, bluesky quote
+- [new palia emote just dropped: pull up a chair. pop one open anytime, anywhere. via @playPalia](https://sotpages.github.io/palia-fan-hub/posts/bluesky-3n27tezzpj72u/post.md): 2026-11-13, bluesky original
+- [palia week so far sundries decor is out, new folding chair emote today, extra life drive still…](https://sotpages.github.io/palia-fan-hub/posts/x-2121340143172984835/post.md): 2026-11-13, x original
 - [Palia has teamed up with Extra Life to support kids at Children's Hospital Los Angeles. $5: 1…](https://sotpages.github.io/palia-fan-hub/posts/x-2121266157508284696/post.md): 2026-11-13, x quote
 - [Need a little harvest-kitchen clutter? Patch 0.208's Simple Sundries: the Case is acquired via the…](https://sotpages.github.io/palia-fan-hub/posts/x-2120981149870625175/post.md): 2026-11-12, x original
 - [Still waiting on the official Shuck Off result 🌽�� said the winner would be revealed Nov. 10, but…](https://sotpages.github.io/palia-fan-hub/posts/x-2120927937918607662/post.md): 2026-11-12, x original
@@ -290,6 +294,3 @@ Notes for models:
 - [From Palia fan @amaiame6 on X: new plushes go straight out front, into the 「自慢コーナー」 (bragging…](https://sotpages.github.io/palia-fan-hub/posts/bluesky-3mykq43u22f25/post.md): 2026-10-23, bluesky original
 - [From Palia fan @Coatlursa on X: "Decided to get the moose beaver pet in palia" Ours: antlers on a…](https://sotpages.github.io/palia-fan-hub/posts/bluesky-3mykousniht2v/post.md): 2026-10-23, bluesky original
 - [From Palia fan @oishii_ichigo_2 on X: 「金欠でロイハをぐるぐる徘徊してたらキツウでたー🙌そして初めての星付き日長石！やっと！やっと！でた😭」 Our…](https://sotpages.github.io/palia-fan-hub/posts/bluesky-3myklnxan7r2z/post.md): 2026-10-23, bluesky original
-- [From Palia fan @aki1207non on X: 「星マジリオブウォー釣れた！ 太古の森星魚実績クリア〜✨️」 Our translation: "Caught a star…](https://sotpages.github.io/palia-fan-hub/posts/bluesky-3mykkfvy2uu2d/post.md): 2026-10-23, bluesky original
-- [寄付前のクッキー運試しシリーズ、今回は @ArtemisSunshine さんのアラバスターのエンバー🐴🍪…](https://sotpages.github.io/palia-fan-hub/posts/x-2113653734777774498/post.md): 2026-10-23, x quote
-- [@Mischievous1665 has officially joined the Maji Market troublemakers 🤠🖤 Matching wide-brim hats,…](https://sotpages.github.io/palia-fan-hub/posts/x-2113653640556917085/post.md): 2026-10-23, x quote
